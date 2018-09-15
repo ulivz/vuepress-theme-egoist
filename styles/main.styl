@@ -1,0 +1,40 @@
+*
+  box-sizing: border-box
+
+body
+  margin: 0
+  font: 300 1em/1.8 PingFang SC,Lantinghei SC,-apple-system,Microsoft Yahei,Hiragino Sans GB,Microsoft Sans Serif,WenQuanYi Micro Hei,sans
+  background-color: #fdf6e3
+
+a
+  color: #b58900
+  cursor: crosshair
+  &:hover
+    background: #eee8d5
+
+.main
+  padding: 40px 70px
+
+.cv
+  font-size 12px
+  border 1px solid #ccc
+  padding 0 3px
+  margin-left 10px
+  
+// override nprogress
+$spinnerColor = #ff69b4
+
+#nprogress .bar
+  background: $spinnerColor
+  
+#nprogress .peg
+  box-shadow: 0 0 10px $spinnerColor, 0 0 5px $spinnerColor
+
+  
+@import './highlight.styl'
+
+@media screen and (max-width: 768px)
+  .main
+    padding: 20px 10px
+  .hide-on-mobile
+    display: none !important
