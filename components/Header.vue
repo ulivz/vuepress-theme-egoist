@@ -2,7 +2,7 @@
   <header class="header">
     <h1 class="site-name">
       <router-link to="/">
-        {{ $siteTitle }}
+        {{ $themeConfig.headerTitle || $siteTitle }}
       </router-link>
     </h1>
     <ul class="nav" v-if="$themeConfig.nav">
