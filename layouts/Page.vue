@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <Header/>
+  <LayoutWrapper>
     <div class="main">
       <div class="page-header">
         <h1 class="page-title">{{ $page.frontmatter.title }}</h1>
@@ -21,61 +20,51 @@
         修改或者 <a target="_blank" href="https://github.com/egoist/blog/issues/new">提交 ISSUE</a>，感谢阅读！
       </div>
     </div>
-    <Footer/>
-  </div>
+  </LayoutWrapper>
 </template>
 
 <script>
-import zoom from 'medium-zoom'
-import Header from '@theme/components/Header'
-import Footer from '@theme/components/Footer'
+  import zoom from 'medium-zoom'
 
-export default {
-  props: ['page'],
+  export default {
+    head () {
+      const title = this.$page.frontmatter.title
+      let summary = this.$page.frontmatter.subtitle || this.$page.excerpt
+      if (summary) {
+        // Strip HTML tags
+        summary = summary.replace(/<(?:.|\n)*?>/gm, '')
+      }
+      return {
+        title,
+        meta: [
+          {
+            name: 'description',
+            content: summary
+          },
+          {
+            name: 'twitter:card',
+            content: summary
+          },
+          {
+            name: 'twitter:creator',
+            content: `@${this.$themeConfig.twitter}`
+          },
+          {
+            name: 'twitter:title',
+            content: title
+          },
+          {
+            name: 'twitter:description',
+            content: summary
+          }
+        ]
+      }
+    },
 
-  head () {
-    const title = this.$page.frontmatter.title
-    let summary = this.$page.frontmatter.subtitle || this.page.excerpt
-    if (summary) {
-      // Strip HTML tags
-      summary = summary.replace(/<(?:.|\n)*?>/gm, '')
+    mounted () {
+      zoom('.page-body img')
     }
-    return {
-      title,
-      meta: [
-        {
-          name: 'description',
-          content: summary
-        },
-        {
-          name: 'twitter:card',
-          content: summary
-        },
-        {
-          name: 'twitter:creator',
-          content: `@${this.$themeConfig.twitter}`
-        },
-        {
-          name: 'twitter:title',
-          content: title
-        },
-        {
-          name: 'twitter:description',
-          content: summary
-        }
-      ]
-    }
-  },
-
-  mounted () {
-    zoom('.page-body img')
-  },
-
-  components: {
-    Header,
-    Footer
   }
-}
 </script>
 
 <style lang="stylus">

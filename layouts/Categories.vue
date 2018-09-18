@@ -1,7 +1,7 @@
 <template>
   <LayoutWrapper>
     <div class="main">
-      <List :items="$tag.posts"/>
+      <EgoistTags :tags="$categories.list"/>
     </div>
   </LayoutWrapper>
 </template>
