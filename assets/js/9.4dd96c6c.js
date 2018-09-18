@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{210:function(t,s,a){"use strict";a.r(s);var n=a(20),e=Object(n.a)({},function(){var t=this.$createElement,s=this._self._c||t;return s("LayoutWrapper",[s("div",{staticClass:"main"},[s("EgoistTags",{attrs:{tags:this.$tags.list}})],1)])},[],!1,null,null,null);s.default=e.exports}}]);

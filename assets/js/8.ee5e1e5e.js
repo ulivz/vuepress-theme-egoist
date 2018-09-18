@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{211:function(t,s,a){"use strict";a.r(s);var e=a(20),n=Object(e.a)({},function(){var t=this.$createElement,s=this._self._c||t;return s("LayoutWrapper",[s("div",{staticClass:"main"},[s("List",{attrs:{items:this.$tag.posts}})],1)])},[],!1,null,null,null);s.default=n.exports}}]);
