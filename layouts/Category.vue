@@ -6,9 +6,3 @@
   </LayoutWrapper>
 </template>
 
-<style lang="stylus">
-  a {
-    font-weight 300;
-    text-decoration: none;
-  }
-</style>

@@ -4,7 +4,7 @@
       <Content/>
       <EgoistTags :tags="$tags.list.slice(0, 10)"/>
       <List :items="$pagination.posts"/>
-      <Pagination></Pagination>
+      <Pagination/>
     </div>
   </LayoutWrapper>
 </template>
