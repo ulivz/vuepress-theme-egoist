@@ -1,3 +1,13 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/vuejs/vuepress/compare/v1.1.0...v1.1.1) (2018-09-26)
+
+
+### Bug Fixes
+
+* add mising plugins ([ece464d](https://github.com/vuejs/vuepress/commit/ece464d))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2018-09-26)
 
