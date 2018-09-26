@@ -24,8 +24,6 @@
 </template>
 
 <script>
-  import zoom from 'medium-zoom'
-
   export default {
     head () {
       const title = this.$page.frontmatter.title
@@ -59,10 +57,6 @@
           }
         ]
       }
-    },
-
-    mounted () {
-      zoom('.page-body img')
     }
   }
 </script>
