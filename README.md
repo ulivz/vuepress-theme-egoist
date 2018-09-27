@@ -4,7 +4,7 @@
 
 > This is the world's first blog theme built with [VuePress Next](https://github.com/vuejs/vuepress/pull/815).
 
-> Showcase: http://egoist.ulivz.com
+> Showcase: https://egoist.ulivz.com/
 
 <br>
 
