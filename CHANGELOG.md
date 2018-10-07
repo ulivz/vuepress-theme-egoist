@@ -1,3 +1,13 @@
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/vuejs/vuepress/compare/v1.3.0...v1.4.0) (2018-10-07)
+
+
+### Features
+
+* bump up to VuePress 1.0.0-alpha.8 ([ff75387](https://github.com/vuejs/vuepress/commit/ff75387))
+
+
+
 <a name="1.3.0"></a>
 # [1.3.0](https://github.com/vuejs/vuepress/compare/v1.2.3...v1.3.0) (2018-10-07)
 
