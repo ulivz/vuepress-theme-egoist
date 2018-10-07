@@ -1,3 +1,13 @@
+<a name="1.2.3"></a>
+## [1.2.3](https://github.com/vuejs/vuepress/compare/v1.2.2...v1.2.3) (2018-10-07)
+
+
+### Bug Fixes
+
+* incorrect global component directory ([c85f9dc](https://github.com/vuejs/vuepress/commit/c85f9dc))
+
+
+
 <a name="1.2.2"></a>
 ## [1.2.2](https://github.com/vuejs/vuepress/compare/v1.2.1...v1.2.2) (2018-10-07)
 
