@@ -6,14 +6,19 @@
 
 ## Features
 
-- EGOIST's theme
-- Tags
-- Categories
+- Original flavor of [EGOIST's blog](https://egoist.moe/)
+- [Tags](https://egoist.ulivz.com/tag/)
+- [Categories](https://egoist.ulivz.com/category/)
 - Pagination
 - Search
 
-This theme deeply integrated with [@vuepress/plugin-blog](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-blog)、[@vuepress/plugin-pagination](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-pagination)、[@vuepress/plugin-search](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-search),
- check out the showcase [https://egoist.ulivz.com/](https://flowchart.vuepress.ulivz.com/) and [usage example](https://github.com/ulivz/vuepress-blog-example-egoist).
+This theme deeply integrated with:
+
+- [@vuepress/plugin-blog](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-blog)
+- [@vuepress/plugin-pagination](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-pagination)
+- [@vuepress/plugin-search](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-search)
+
+Check out the showcase [https://egoist.ulivz.com/](https://flowchart.vuepress.ulivz.com/) and [usage example](https://github.com/ulivz/vuepress-blog-example-egoist).
 
 ## Contributing
 
