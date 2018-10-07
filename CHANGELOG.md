@@ -1,3 +1,13 @@
+<a name="1.2.2"></a>
+## [1.2.2](https://github.com/vuejs/vuepress/compare/v1.2.1...v1.2.2) (2018-10-07)
+
+
+### Bug Fixes
+
+* specify global compoennts directory since alpha.6 has removed it. ([9d6c672](https://github.com/vuejs/vuepress/commit/9d6c672))
+
+
+
 <a name="1.2.1"></a>
 ## [1.2.1](https://github.com/vuejs/vuepress/compare/v1.2.0...v1.2.1) (2018-10-07)
 
