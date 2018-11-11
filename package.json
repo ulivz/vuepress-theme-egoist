@@ -17,10 +17,10 @@
     "generator"
   ],
   "dependencies": {
-    "@vuepress/plugin-blog": "^1.0.0-alpha.17",
-    "@vuepress/plugin-pagination": "^1.0.0-alpha.17",
-    "@vuepress/plugin-search": "^1.0.0-alpha.17",
-    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.17"
+    "@vuepress/plugin-blog": "^1.0.0-alpha.20",
+    "@vuepress/plugin-pagination": "^1.0.0-alpha.20",
+    "@vuepress/plugin-search": "^1.0.0-alpha.20",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.20"
   },
   "devDependencies": {
     "release-it": "v7.4.8",
@@ -32,7 +32,7 @@
     "url": "https://github.com/vuejs/vuepress/issues"
   },
   "peerDependencies": {
-    "vuepress": "^1.0.0-alpha.17"
+    "vuepress": "^1.0.0-alpha.20"
   },
   "homepage": "https://github.com/vuejs/vuepress/packages/@vuepress/theme-blog-example#readme"
 }
