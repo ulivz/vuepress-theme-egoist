@@ -1,3 +1,8 @@
+<a name="1.4.2"></a>
+## [1.4.2](https://github.com/vuejs/vuepress/compare/v1.4.1...v1.4.2) (2018-11-12)
+
+
+
 <a name="1.4.1"></a>
 ## [1.4.1](https://github.com/vuejs/vuepress/compare/v1.4.0...v1.4.1) (2018-10-29)
 

@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-egoist",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "theme-blog-example for vuepress",
   "main": "index.js",
   "scripts": {
