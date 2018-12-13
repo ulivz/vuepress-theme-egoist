@@ -14,11 +14,11 @@
 
 This theme deeply integrated with:
 
-- [@vuepress/plugin-blog](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-blog)
-- [@vuepress/plugin-pagination](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-pagination)
-- [@vuepress/plugin-search](https://github.com/vuejs/vuepress/tree/next/packages/%40vuepress/plugin-search)
+- [@vuepress/plugin-blog](https://vuepress.vuejs.org/plugin/official/plugin-blog.html)
+- [@vuepress/plugin-pagination](https://vuepress.vuejs.org/plugin/official/plugin-pagination.html)
+- [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html)
 
-Check out the showcase [https://egoist.ulivz.com/](https://flowchart.vuepress.ulivz.com/) and [usage example](https://github.com/ulivz/vuepress-blog-example-egoist).
+Check out the showcase [https://egoist.ulivz.com/](https://flowchart.vuepress.ulivz.com/) and [usage example](example).
 
 ## Contributing
 
@@ -34,8 +34,6 @@ Check out the showcase [https://egoist.ulivz.com/](https://flowchart.vuepress.ul
 Authored and maintained by ulivz with help from contributors ([list](https://github.com/ULIVZ/vuepress-theme-egoist/contributors)).
 
 > [github.com/ulivz](https://github.com/ulivz) · GitHub [@ulivz](https://github.com/ULIVZ) · Twitter [@_ulivz](https://twitter.com/_ulivz)
-
-
 
 <br>
 
