@@ -1,6 +1,7 @@
 const path = require('path')
 
 module.exports = {
+  name: 'vuepress-theme-egoist',
   plugins: [
     '@vuepress/blog',
     '@vuepress/pagination',
