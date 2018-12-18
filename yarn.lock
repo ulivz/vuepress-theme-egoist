@@ -651,17 +651,17 @@
     source-map "^0.5.6"
     vue-template-es2015-compiler "^1.6.0"
 
-"@vuepress/core@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/core/download/@vuepress/core-1.0.0-alpha.29.tgz#3214ebf249ec2e1b2f33e5550e2e1710a9b7eb54"
+"@vuepress/core@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/core/download/@vuepress/core-1.0.0-alpha.30.tgz#17be32b8775302386d0c0114accee41c84105f5e"
   dependencies:
     "@babel/core" "^7.0.0"
     "@vue/babel-preset-app" "^3.1.1"
-    "@vuepress/markdown" "^1.0.0-alpha.29"
-    "@vuepress/markdown-loader" "^1.0.0-alpha.29"
-    "@vuepress/plugin-last-updated" "^1.0.0-alpha.29"
-    "@vuepress/plugin-register-components" "^1.0.0-alpha.29"
-    "@vuepress/shared-utils" "^1.0.0-alpha.29"
+    "@vuepress/markdown" "^1.0.0-alpha.30"
+    "@vuepress/markdown-loader" "^1.0.0-alpha.30"
+    "@vuepress/plugin-last-updated" "^1.0.0-alpha.30"
+    "@vuepress/plugin-register-components" "^1.0.0-alpha.30"
+    "@vuepress/shared-utils" "^1.0.0-alpha.30"
     autoprefixer "^8.2.0"
     babel-loader "^8.0.4"
     cac "^6.3.9"
@@ -687,7 +687,6 @@
     toml "^2.3.3"
     url-loader "^1.0.1"
     vue "^2.5.16"
-    vue-content-loader "^0.2.1"
     vue-loader "^15.2.4"
     vue-router "^3.0.1"
     vue-server-renderer "^2.5.16"
@@ -699,18 +698,18 @@
     webpack-serve "^1.0.2"
     webpackbar "^2.6.1"
 
-"@vuepress/markdown-loader@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/markdown-loader/download/@vuepress/markdown-loader-1.0.0-alpha.29.tgz#92458938b365e62ac2f8970f38d5e12eaa406a9a"
+"@vuepress/markdown-loader@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/markdown-loader/download/@vuepress/markdown-loader-1.0.0-alpha.30.tgz#b0a3dc889d9ec10d5f44e740a3c701ca65bce4c6"
   dependencies:
-    "@vuepress/markdown" "^1.0.0-alpha.29"
+    "@vuepress/markdown" "^1.0.0-alpha.30"
     loader-utils "^1.1.0"
 
-"@vuepress/markdown@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/markdown/download/@vuepress/markdown-1.0.0-alpha.29.tgz#68f81077983fd2810310624d1faf66cafb968b9b"
+"@vuepress/markdown@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/markdown/download/@vuepress/markdown-1.0.0-alpha.30.tgz#2a2b35145858ba1a690213f48e754ed914f93a06"
   dependencies:
-    "@vuepress/shared-utils" "^1.0.0-alpha.29"
+    "@vuepress/shared-utils" "^1.0.0-alpha.30"
     markdown-it "^8.4.1"
     markdown-it-anchor "^5.0.2"
     markdown-it-chain "^1.3.0"
@@ -719,45 +718,45 @@
     markdown-it-table-of-contents "^0.4.0"
     prismjs "^1.13.0"
 
-"@vuepress/plugin-active-header-links@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-active-header-links/download/@vuepress/plugin-active-header-links-1.0.0-alpha.29.tgz#fc218a0d37b27f28678e8c8ddcad7993ac7498fe"
+"@vuepress/plugin-active-header-links@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/plugin-active-header-links/download/@vuepress/plugin-active-header-links-1.0.0-alpha.30.tgz#9e0060dfd6d65a93b6b04c7c8d6fda8709e26ca2"
   dependencies:
     lodash.throttle "^4.1.1"
 
-"@vuepress/plugin-blog@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-blog/download/@vuepress/plugin-blog-1.0.0-alpha.29.tgz#3683e968378d1f073726de7998bbb67eaa1c1872"
+"@vuepress/plugin-blog@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/plugin-blog/download/@vuepress/plugin-blog-1.0.0-alpha.30.tgz#f9973ead85d3b2e8b29ec4d64c8ad1faf13538b8"
 
-"@vuepress/plugin-last-updated@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-last-updated/download/@vuepress/plugin-last-updated-1.0.0-alpha.29.tgz#98b25e0eb48d251bc393748c5f2150224ad9091c"
+"@vuepress/plugin-last-updated@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/plugin-last-updated/download/@vuepress/plugin-last-updated-1.0.0-alpha.30.tgz#d7b237128c9d00ceb38e8038e9d0b240b332991b"
   dependencies:
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-medium-zoom@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-medium-zoom/download/@vuepress/plugin-medium-zoom-1.0.0-alpha.29.tgz#9c72f8680869521fd2f5ef403d1348d3e3903cb6"
+"@vuepress/plugin-medium-zoom@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/plugin-medium-zoom/download/@vuepress/plugin-medium-zoom-1.0.0-alpha.30.tgz#b72c6d488d3429be1d4c88b3cbbe5335e62acac0"
   dependencies:
     medium-zoom "^0.4.0"
 
-"@vuepress/plugin-pagination@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-pagination/download/@vuepress/plugin-pagination-1.0.0-alpha.29.tgz#3f4f1caf44cd1e29d0b01054893d4859a39c78a9"
+"@vuepress/plugin-pagination@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/plugin-pagination/download/@vuepress/plugin-pagination-1.0.0-alpha.30.tgz#97d9584cd491b41d133cd009e4323ca380e7ed5a"
 
-"@vuepress/plugin-register-components@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-register-components/download/@vuepress/plugin-register-components-1.0.0-alpha.29.tgz#ad3764cec0dae74432ea6ee011af1badad676a4b"
+"@vuepress/plugin-register-components@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/plugin-register-components/download/@vuepress/plugin-register-components-1.0.0-alpha.30.tgz#2fa108dad68092394c6991be22da350da515215e"
   dependencies:
-    "@vuepress/shared-utils" "^1.0.0-alpha.29"
+    "@vuepress/shared-utils" "^1.0.0-alpha.30"
 
-"@vuepress/plugin-search@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-search/download/@vuepress/plugin-search-1.0.0-alpha.29.tgz#869cf1962e9d637610a941bc5ca47cedf3b1b32d"
+"@vuepress/plugin-search@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/plugin-search/download/@vuepress/plugin-search-1.0.0-alpha.30.tgz#3ece9654b139de75efdc5f5dcd84bcb39073baaa"
 
-"@vuepress/shared-utils@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/shared-utils/download/@vuepress/shared-utils-1.0.0-alpha.29.tgz#ae4925a45315fc985ffe6786eea58677b945e7eb"
+"@vuepress/shared-utils@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/shared-utils/download/@vuepress/shared-utils-1.0.0-alpha.30.tgz#928dff5c58d62932ca7d87093ebbf29939112dc3"
   dependencies:
     chalk "^2.3.2"
     diacritics "^1.3.0"
@@ -767,12 +766,12 @@
     hash-sum "^1.0.2"
     upath "^1.1.0"
 
-"@vuepress/theme-default@^1.0.0-alpha.29":
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/@vuepress/theme-default/download/@vuepress/theme-default-1.0.0-alpha.29.tgz#45c0bd71fc274190caa31a29a2463e3dac2c9731"
+"@vuepress/theme-default@^1.0.0-alpha.30":
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/@vuepress/theme-default/download/@vuepress/theme-default-1.0.0-alpha.30.tgz#f91dc67c929966e89d5802f943291bc1c70b88c5"
   dependencies:
-    "@vuepress/plugin-active-header-links" "^1.0.0-alpha.29"
-    "@vuepress/plugin-search" "^1.0.0-alpha.29"
+    "@vuepress/plugin-active-header-links" "^1.0.0-alpha.30"
+    "@vuepress/plugin-search" "^1.0.0-alpha.30"
     docsearch.js "^2.5.2"
     nprogress "^0.2.0"
     stylus "^0.54.5"
@@ -7476,12 +7475,6 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-content-loader@^0.2.1:
-  version "0.2.1"
-  resolved "http://registry.npm.taobao.org/vue-content-loader/download/vue-content-loader-0.2.1.tgz#0eb332e2a72643d57fb209d72d6526573b191f5a"
-  dependencies:
-    babel-helper-vue-jsx-merge-props "^2.0.3"
-
 vue-feather-icons@^4.7.0:
   version "4.7.1"
   resolved "http://registry.npm.taobao.org/vue-feather-icons/download/vue-feather-icons-4.7.1.tgz#d8c55fbee7c9ad59689ebbaf07ad1e2f1e5c37da"
@@ -7553,12 +7546,12 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress@^1.0.0-alpha.29:
-  version "1.0.0-alpha.29"
-  resolved "http://registry.npm.taobao.org/vuepress/download/vuepress-1.0.0-alpha.29.tgz#f48c69ed0c1662e7fb187354c47a51b3edd3bd4b"
+vuepress@^1.0.0-alpha.30:
+  version "1.0.0-alpha.30"
+  resolved "http://registry.npm.taobao.org/vuepress/download/vuepress-1.0.0-alpha.30.tgz#6f615fb568fef04ea0bb4231e33b2cb87f4c0eee"
   dependencies:
-    "@vuepress/core" "^1.0.0-alpha.29"
-    "@vuepress/theme-default" "^1.0.0-alpha.29"
+    "@vuepress/core" "^1.0.0-alpha.30"
+    "@vuepress/theme-default" "^1.0.0-alpha.30"
 
 watchpack@^1.5.0:
   version "1.6.0"

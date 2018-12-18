@@ -19,15 +19,15 @@
     "generator"
   ],
   "dependencies": {
-    "@vuepress/plugin-blog": "^1.0.0-alpha.29",
-    "@vuepress/plugin-pagination": "^1.0.0-alpha.29",
-    "@vuepress/plugin-search": "^1.0.0-alpha.29",
-    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.29"
+    "@vuepress/plugin-blog": "^1.0.0-alpha.30",
+    "@vuepress/plugin-pagination": "^1.0.0-alpha.30",
+    "@vuepress/plugin-search": "^1.0.0-alpha.30",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.30"
   },
   "devDependencies": {
     "release-it": "v7.4.8",
     "conventional-changelog-cli": "^2.0.1",
-    "vuepress": "^1.0.0-alpha.29",
+    "vuepress": "^1.0.0-alpha.30",
     "limax": "^1.6.0",
     "markdown-it-footnote": "^3.0.1",
     "medium-zoom": "^0.4.0",
@@ -36,7 +36,7 @@
     "vue-feather-icons": "^4.7.0"
   },
   "peerDependencies": {
-    "vuepress": "^1.0.0-alpha.29"
+    "vuepress": "^1.0.0-alpha.30"
   },
   "author": "ULIVZ <chl814@foxmail.com>",
   "license": "MIT",
