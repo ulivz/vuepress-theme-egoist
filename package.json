@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vuepress.git"
+    "url": "git+https://github.com/ulivz/vuepress-theme-egoist.git"
   },
   "keywords": [
     "documentation",

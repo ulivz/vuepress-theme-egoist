@@ -5,10 +5,6 @@
 ### Features
 
 * bump to latest vuepress 1.0.0-alpha.29 ([7d7a943](https://github.com/vuejs/vuepress/commit/7d7a943))
-* bump up to latest vuepress ([65f2bef](https://github.com/vuejs/vuepress/commit/65f2bef))
-* bump vuepress ([0387e2b](https://github.com/vuejs/vuepress/commit/0387e2b))
-
-
 
 <a name="1.4.2"></a>
 ## [1.4.2](https://github.com/vuejs/vuepress/compare/v1.4.1...v1.4.2) (2018-11-12)
