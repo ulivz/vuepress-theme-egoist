@@ -8,6 +8,12 @@
     "dev": "vuepress dev example --temp example/.temp",
     "build": "vuepress build example --temp example/.temp"
   },
+  "files": [
+    "components",
+    "layouts",
+    "styles",
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ulivz/vuepress-theme-egoist.git"
