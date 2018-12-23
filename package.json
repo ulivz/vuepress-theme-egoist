@@ -1,6 +1,6 @@
 {
   "name": "vuepress-theme-egoist",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "A blog theme for @EGOIST and a mirror of egoist/blog, but powered by VuePress.",
   "main": "index.js",
   "scripts": {

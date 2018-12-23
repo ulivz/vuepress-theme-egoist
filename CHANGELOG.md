@@ -1,3 +1,8 @@
+<a name="1.5.1"></a>
+## [1.5.1](https://github.com/ulivz/vuepress-theme-egoist/compare/v1.5.0...v1.5.1) (2018-12-23)
+
+
+
 <a name="1.5.0"></a>
 # [1.5.0](https://github.com/ulivz/vuepress-theme-egoist/compare/v1.4.2...v1.5.0) (2018-12-18)
 
