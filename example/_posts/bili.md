@@ -1,121 +1,120 @@
 ---
-title: "Bili: 打包 JS 库的瑞士军刀"
-subtitle: 基于 Rollup 的打包工具
+title: "Bili: Swiss Army Knife Packing the JS Library"
+subtitle: Rollup-based packaging tool
 date: 2017-07-08 15:13:17
 tags:
 ---
-
-## 预习
+## Preview
 
 ### Rollup
 
-[Rollup](https://github.com/rollup/rollup) 类似 [Webpack](https://webpack.js.org)/Browserify 之类的打包工具，但是打包出来的文件更小，即便是和 Webpack 3 相比。除此之外 Rollup 主要用于打包 library 并且拥有非常简单的 API 接口。
+[Rollup](https://github.com/rollup/rollup) is similar to the packaging tool like [Webpack] (https://webpack.js.org)/Browserify, but the packaged files are smaller, even if and Compared to Webpack 3. In addition to this, Rollup is mainly used to package libraries and has a very simple API interface.
 
-### 瑞士军刀
+### Swiss Army Knife
 
-多种用途，携带方便且操作简单，意外地看起来很酷。
+A variety of uses, easy to carry and easy to operate, unexpectedly looks cool.
 
 ## 授业
 
-> 学生 A：道理我都懂，可是 EGOIST sensei[^sensei]! 为什么给 Rollup 套个皮就拿出来卖了？这根本不是编程！
+> Student A: I understand the truth, but EGOIST sensei[^sensei]! Why did you roll out the Rollup and sell it? This is not programming at all!
 
-的确这不是什么有难度、有深度的东西，只是用来解决一个简单的问题：简化打包流程，提高人类自身价值感和归属感。
+It's true that this is not something that is difficult or in-depth. It is only used to solve a simple problem: simplify the packaging process and improve people's sense of value and belonging.
 
-> 学生 B：哦？是怎么做到的呢，想知道呢！sensei sensei 快告诉我！
+> Student B: Oh? How did it do it, I want to know! Sensei sensei Tell me soon!
 
-既然这个同学可爱地向我提问了那我就简明易懂地告诉大家吧！你可以在 [WIKI](https://github.com/rollup/rollup/wiki/JavaScript-API) 找到 Rollup 的 API 食用方法，简单地说它接受一个参数，而这个参数决定了如何寻找、操作你的源代码，比如:
+Since this classmate asked me cutely, I will tell you in a simple and easy way! You can find Rollup's API eating method at [WIKI] (https://github.com/rollup/rollup/wiki/JavaScript-API). Simply put, it accepts a parameter, which determines how to find and manipulate you. Source code, such as:
 
 ```js
-rollup.rollup({
-  // 从这个文件开始:
-  entry: 'src/index.js',
-  // 用写插件自定义如何转换代码吧
-  plugins: []
+Rollup.rollup({
+  // Start with this file:
+  Entry: 'src/index.js',
+  // Customize how to convert code with a write plugin
+  Plugins: []
 })
 ```
 
-然后它会返回一个 Promise 把 `bundle` 送到你手上，你可以决定如何生成文件:
+Then it will return a Promise to send `bundle` to your hand, and you can decide how to generate the file:
 
 ```js
-rollup.rollup(options)
-  .then(bundle => {
-    // 我想写到磁盘上！
-    bundle.write({
-      // 等等 Rollup 娘，写成 commonjs 格式的哦！
-      format: 'cjs',
-      // 给生成的文件一个名字吧！
-      dest: 'bundle.js'
-    })
-  })
+Rollup.rollup(options)
+  .then(bundle => {
+    // I want to write to disk!
+    Bundle.write({
+      // Wait, Rollup mother, written in commonjs format!
+      Format: 'cjs',
+      // Give the generated file a name!
+      Dest: 'bundle.js'
+    })
+  })
 ```
 
-> 学生 C 跳了起来: EGOIST sensei! 这看上去好简单啊，根本没你的 [Bili](https://github.com/egoist/bili) 的出场机会了啊 QAQ
+> Student C jumped up: EGOIST sensei! This looks so simple, there is no chance for you to play [Bili] (https://github.com/egoist/bili) QAQ
 
-的确很简单，但是你可以看看 [Vue](https://github.com/vuejs/vue/blob/dev/build/build.js) 和 [React](https://github.com/facebook/react/blob/master/scripts/rollup/build.js) 的构建脚本，真是无比地冗长。
+It's really simple, but you can check out [Vue] (https://github.com/vuejs/vue/blob/dev/build/build.js) and [React](https://github.com/facebook/ The build script for react/blob/master/scripts/rollup/build.js) is incredibly long.
 
-越 low level 的 API 看起来就越简单，但在大项目中就会被有经验的开发者用更复杂的方式来使用，人们称这种情况为 **M 属性**，不过这已经在这节课的范畴之外了。
+The lower the level of the API, the simpler it seems, but in larger projects it will be used by experienced developers in more complex ways. People call this the **M attribute**, but this is already here. The scope of the lesson is beyond.
 
-简而言之，大多数项目都会有生成多个 bundle 的需求，比如不同格式的 bundle、抑或替换了不同变量的 bundle，你势必将多次使用 Rollup **简单**的 API 来解决这些需求。而将这一行为抽离出来，放进一个单独的工具中以便重复使用，便是 Bili 干的事:
+In short, most projects have the need to generate multiple bundles, such as bundles of different formats, or bundles with different variables. You are bound to use Rollup ** simple APIs to solve these requirements multiple times. And pulling this out and putting it in a separate tool for reuse is what Bili does:
 
 ```bash
-bili --format cjs,umd,es --compress umd
+Bili --format cjs,umd,es --compress umd
 ```
 
-为了能尽可能直接用命令行就可以使用 Bili 的全部功能，`format` 接受以逗号分割的一个或多个格式名，当然数组也可以不过命令行里不太方便。
+In order to use Bili's full functionality as much as possible directly with the command line, `format` accepts one or more format names separated by commas. Of course, arrays can be inconvenient on the command line.
 
-让我们来看看使用原汁原味的 Rollup 来写看起来是什么样子:
+Let's take a look at using the original Rollup to write what it looks like:
 
 ```js
-import { rollup } from 'rollup'
+Import { rollup } from 'rollup'
 
-function build(format) {
-  const plugins = [
-    // ES2015 -> ES5
-    require('rollup-plugin-buble')()
-  ]
+Function build(format) {
+  Const plugins = [
+    // ES2015 -> ES5
+    Require('rollup-plugin-buble')()
+  ]
 
-  let compress = false
+  Let compress = false
 
-  if (format.endsWith('Compress')) {
-    format = format.replace(/Compress$/, '')
-    compress = true
-  }
+  If (format.endsWith('Compress')) {
+    Format = format.replace(/Compress$/, '')
+    Compress = true
+  }
 
-  if (format === 'umd') {
-    // 把第三方模块打包进来
-    plugins.push(
-      require('rollup-plugin-node-resolve')(),
-      require('rollup-plugin-commonjs')()
-    )
-  }
+  If (format === 'umd') {
+    // package the third party module
+    Plugins.push(
+      Require('rollup-plugin-node-resolve')(),
+      Require('rollup-plugin-commonjs')()
+    )
+  }
 
-  if (compress) {
-    // 压缩
-    plugins.push(require('rollup-plugin-uglifyjs')())
-  }
+  If (compress) {
+    // compression
+    Plugins.push(require('rollup-plugin-uglifyjs')())
+  }
 
-  return rollup({
-    entry: 'src/index.js',
-    plugins
-  }).then(bundle => bundle.write({
-    dest: `dist/index.${format}.js`,
-    format
-  }))
+  Return rollup({
+    Entry: 'src/index.js',
+    Plugins
+  }).then(bundle => bundle.write({
+    Dest: `dist/index.${format}.js`,
+    Format
+  }))
 }
 
 Promise.all(['umd', 'cjs', 'es', 'umdCompress'].map(build))
-  .then(() => console.log('done'))
-  .catch(err => console.error(err))
+  .then(() => console.log('done'))
+  .catch(err => console.error(err))
 ```
 
-就是以上这样的感觉，Bili 最近被中国超高校级的计算机协会授予了节能减排倡导先锋和键盘寿命拯救者的光荣称号，以及还有人类脑细胞的救星、键盘手杀手、让正太和萝莉也很容易地打包了这些市井称号。
+It is the feeling of the above, Bili was recently awarded the honorary title of energy saving and emission reduction advocacy pioneer and keyboard life saver by China's super-university computer association, as well as the savior of human brain cells, keyboard player killer, Jean Zhengtai and Loli. These market names are easily packaged.
 
-[Bili 被大量使用在我的前端库中](https://github.com/search?l=JSON&o=desc&q=bili+scripts+build&s=indexed&type=Code&utf8=%E2%9C%93)，有人会问那 CSS 以及图片、字体什么的怎么办，对于 CSS 我一般不会打包，直接原样交给用户。而字体、图片什么的一般也都是 CSS 里用的，自然同理。当然，我暂时还没有遇到需要字体和图片的情况。
+[Bili is heavily used in my front-end library] (https://github.com/search?l=JSON&o=desc&q=bili+scripts+build&s=indexed&type=Code&utf8=%E2%9C%93), someone will ask What about CSS and pictures, fonts, etc. For CSS, I generally don't pack it and hand it to the user as it is. The fonts and pictures are generally used in CSS, and naturally the same. Of course, I haven't encountered the need for fonts and images for the time being.
 
-## 放课后
+## After class
 
-放学后同学们都会到家跃跃欲试，打开电脑，发现了 [Bili](https://github.com/egoist/bili) [v0.17](https://github.com/egoist/bili/releases/tag/v0.17.0) 的数个 breaking changes，当然都是花一分钟就能搞定的变更。
+After school, students will be eager to go home, open the computer and found [Bili] (https://github.com/egoist/bili) [v0.17] (https://github.com/egoist/bili/releases/tag /v0.17.0) Several breaking changes, of course, are changes that can be made in a minute.
 
-从此，大家过上了幸福的打包生活。
+Since then, everyone has lived a happy package life.
 
-[^sensei]: 日语中老师(センセイ)的意思，由女高中生说出来时才可充分表现语言的张力。
+[^sensei]: The meaning of the teacher (センセイ) in Japanese, when the female high school student speaks, can fully express the tension of the language.

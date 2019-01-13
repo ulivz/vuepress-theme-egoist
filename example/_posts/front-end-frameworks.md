@@ -1,5 +1,5 @@
 ---
-title: 前端框架概览
+title: Front end frameworks overview
 subtitle: Do you really need frameworks?
 date: 2016-03-21 13:31:32
 tags:
@@ -12,11 +12,11 @@ tags:
   - react
   - mvvm
 ---
-前端框架在近来是非常流行的词(Buzz word)，我现在就来介绍一下其中主流的框架，并且帮你区分什么是真正的「前端框架」。
+The front-end framework is a very popular word (Buzz word) in the near future. Let me introduce the mainstream framework and help you distinguish what is the real front-end framework.
 
-## <span>流行词汇</span>
+## <span>popular vocabulary</span>
 
-一说起前端框架你就会听到一些看似很高深的词汇，比如 `mvvm` `vdom` `view layer` `unidirection` 等等，以及这些人们所谓的「框架」：
+When you talk about the front-end framework, you will hear some seemingly high-level words, such as `mvvm` `vdom` `view layer` `unidirection` and so on, and what these people call "framework":
 
 - Bootstrap
 - jQuery
@@ -25,56 +25,56 @@ tags:
 - React
 - Vue
 
-## <span>框架大乱战</span>
+## <span>Frame chaos</span>
 
 ### Bootstrap
 
-Bootstrap 是一个框架吗? 是的，就算它只是一系列**常用 CSS 和 jQuery plugin** 的集合，它还是一个框架。不过它更多的是一个常用代码片段的集合，而不是一个那种能带来设计模式的框架。
+Is Bootstrap a framework? Yes, even if it's just a collection of common CSS and jQuery plugin**, it's still a framework. But it's more of a collection of common code snippets than a framework that brings design patterns.
 
-Bootstrap 带给你的是栅格系统，是预置的按钮、表单、列表、导航、响应式等等样式，它在你独立开发的时候非常有用，因为能节约用来「设计网页」的时间，而且这套预置的样式本身「也不丑」，自然是受很多公司「前期快速开发」的青睐了。
+Bootstrap brings you a grid system, which is a preset button, form, list, navigation, responsive style, etc. It is very useful when you are developing independently, because it saves time for "designing web pages". Moreover, the style of this preset is "not ugly", and naturally it is favored by many companies "pre-exploration".
 
-我更愿意把 Bootstrap 称为一个 UI library，就像与之类似的 [purecss](http://purecss.io/)、 [Foundation](foundation.zurb.com) 一样。当然最近比较火的微信移动端使用的 UI 库 [weui](https://github.com/weui/weui) 自然也属于这个范畴。
+I prefer to refer to Bootstrap as a UI library, just like [purecss] (http://purecss.io/), [Foundation](foundation.zurb.com). Of course, the recently used UI library [weui] (https://github.com/weui/weui) used by the WeChat mobile terminal naturally belongs to this category.
 
 ### jQuery
 
-jQuery 是一个现象，它重新定义了 dom 操作这一行为。
+jQuery is a phenomenon that redefines the behavior of dom operations.
 
-从某种意义讲，jQuery 是一个 framework，因为它让直接操作 dom 来进行 UI 交互成为了一种设计模式（笑）。这是个玩笑， jQuery 更多只能看做一个更抽象的 DOM API，弥补的原生 DOM API 的不足，并增加了很多常用的 helper。
+In a sense, jQuery is a framework because it makes direct manipulation of dom for UI interaction a design pattern (laughs). This is a joke, jQuery can only be seen as a more abstract DOM API, to make up for the lack of the native DOM API, and to add a lot of commonly used helpers.
 
-常见的 Web 设计模式就是 MVC 和 MVVM，它们和 jQuery 之间另一个不同就是对于数据的处理。用 jQuery 写的代码常常直接用 dom 来和 data 打交道，需要「手动地」更新页面。反之 MVC 和 MVVM 通常把数据存储在 model 这个 layer 上，通过一定的绑定机制实施更有效率的页面渲染和更新。
+The common web design patterns are MVC and MVVM, and another difference between them and jQuery is the processing of data. Code written in jQuery often uses dom to deal with data directly, and needs to "manually" update the page. On the other hand, MVC and MVVM usually store data on the model layer, and implement more efficient page rendering and updating through a certain binding mechanism.
 
 ### BackBone
 
-BackBone 经常和 jQuery 一起用， MVC 模式 + 一个高度抽象的 DOM API 曾经征服了很多开发者的心。
+BackBone is often used with jQuery, MVC mode + a highly abstract DOM API that has conquered many developers.
 
-然而 BackBone 经常被人诟病为「不是 MVC」的 MVC，原因在于你很难把用 jQuery 写出的代码合理地用 MVC 模式来进行归纳，在我看来，这是因为没有一个规范的 View layer 来组织 dom 相关的代码。
+However, BackBone is often criticized as "not MVC" MVC, because it is difficult to reasonably use the code written in jQuery to generalize in MVC mode. In my opinion, this is because there is no standard View layer. Organize dom related code.
 
 ### Angular/Vue/React
 
-详见 http://cn.vuejs.org/guide/comparison.html
+See http://cn.vuejs.org/guide/comparison.html for details.
 
-## <span>我的选择</span>
+## <span>My choice</span>
 
-在我看来 Vue 和 React 是更现代的选择，Angular 2 的学习曲线看起来十分陡峭，让我望而生畏，有爱好者也可以尝试一下。
+In my opinion, Vue and React are more modern choices. The learning curve of Angular 2 looks so steep that it makes me daunting, and there are fans who can try it.
 
-Vue 和 React 最大的区别就是社区的活跃度和成熟度。
+The biggest difference between Vue and React is the community's activity and maturity.
 
-React 社区看似活跃和成熟但是所谓的 best practice 层出不穷，有时候 [一个东西](http://sam.js.org/) 换了一个名字就能拿出来卖弄一番，扰乱视听。
+The React community seems to be active and mature, but the so-called best practice is endless. Sometimes [a thing] (http://sam.js.org/) can be used to show off and change the name.
 
-Vue 社区则看起来更加专制，现状是各路菊苣唯 [小右](http://evanyou.me/)  马首是瞻。这不是不好，非常好，正确的东西有很多人追随这没有不对的。而且现在社区也在蓬勃发展，小右本人也开始全职开发 Vue 和相关生态组件。
+The Vue community seems to be more authoritarian, and the status quo is that all the chicory [small right] (http://evanyou.me/) is the leader. This is not bad, very good, there are many people who follow the right thing and there is nothing wrong with it. And now the community is booming, and Xiaoyou himself has started to develop Vue and related ecological components full time.
 
-## <span>如何学习一个框架</span>
+## <span>How to learn a framework</span>
 
-### 基础
+### 基本
 
-首先熟悉这个框架是最基本的，通过阅读官方的一些 guide 并且自己动手操作比较好的做法，比如在 [JSbin](http://jsbin.com/) 上试试 Vue。这方面 Vue 的 [官方教程](http://cn.vuejs.org/guide/) 由浅入深、面面俱到堪称业界典范。
+First of all, familiar with this framework is the most basic, by reading some of the official guides and doing it yourself, such as trying Vue on [JSbin] (http://jsbin.com/). In this regard, Vue's [official tutorial] (http://cn.vuejs.org/guide/) is an industry model from the shallower to the deeper.
 
-### 生态
+###生态
 
-一个没有生态的框架是活不长的，生态的重要性之一是节省了开发者重复劳动的时间。所以你下一步就是广泛了解相关生态，比如你会用 React 做 todomvc 之后可以去看看 [awesome-react](https://github.com/enaqx/awesome-react)，通常那里也会有一些前人写的指南。
+A framework without ecology is not long-lived. One of the importance of ecology is to save developers time for repetitive work. So the next step is to have a broad understanding of the ecology. For example, if you use React as a dodomvc, you can check out [awesome-react] (https://github.com/enaqx/awesome-react), usually there will be some before. A guide written by people.
 
-### 持续学习
+### Continuous learning
 
-我自认为作为开发者的一个好习惯就是「凡事尽量自己解决」，有些东西即使别人一次给你说清了，你没有自己解决的经验下次再遇到类似的问题很难触类旁通。
+I think that a good habit as a developer is to "try everything to solve as much as possible". Some things are clear to you once, and you don't have the experience you have solved yourself. It is difficult to bypass similar problems next time.
 
-「自己解决」不是指自己做个伸手党，而是指能 Google 就绝不~~百度~~，能~~百度~~就绝不提问，能提问就尽量描述清楚，能描述清楚就想想能不能通过 Google 解决。
+"Self-solving" does not mean that you are a party, but that you can never go to Google~~ Baidu~~, can~~ Baidu~~ Never ask questions, can ask questions as much as possible, and describe them clearly. Can it be solved by Google?

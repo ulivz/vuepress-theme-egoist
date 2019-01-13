@@ -1,43 +1,43 @@
 ---
-title: 风夏的前世今生
+title: The past and present of the wind and summer
 date: 2017-02-11 19:59:29
 tags:
 - fuuka
 ---
 
-风夏的父亲是作为日本代表获得世界田径锦标赛百米亚军的秋月大和，说起来那也算是一段传奇了。
+Feng Xia’s father was the representative of Japan who won the runner-up of the 100-meter runner-up in the World Athletics Championships. It is a legend.
 
-大和本是所谓田径这类运动的门外汉，体力好可能是他与其唯一能扯上关系的东西了。从乡下老家去东京上高中无疑拓宽了大和的视野，初次游览新学校就领略到了运动之美 —— 一个短头发的女孩身着田径运动员特有的露脐装跃跃欲试，只见女孩突然急行加速绕了一个弧形来到横杆面前，一个侧身，呜哇，绝赞的一跃！
+Yamato is a layman of the so-called athletics, and his physical strength may be the only thing he can do with his relationship. Going to the high school in Tokyo from the hometown of the country undoubtedly broadened the vision of Yamato. The first time I visited the new school, I realized the beauty of sports. A short-haired girl dressed in a unique umbilical dress with track and field athletes eagerly tried to see the girl suddenly rushed to accelerate around. The arc came to the crossbar, a sideways, oh wow, a great leap!
 
-大和看呆了，女孩的上半身逐渐和横杆平行并超越，即将过杆时横杆与女孩的眼睛、胸部、双腿构成的抛物线让大和似乎有了亲临运动场的实感，绝美的一幕。
+Yamato looked at it, the girl's upper body gradually paralleled and crossed the crossbar. The parabola formed by the crossbar and the girl's eyes, chest and legs will make the Yamaha seem to have a real feeling in the stadium.
 
-如果这样的场景不能让大和对她一见钟情，那么一见钟情这几个字还有什么实在意义呢。这个像凉风一样的女孩吹进了大和的心里，开启了大和和凉风的故事。
+If such a scene can't make Yamato fall in love with her at first sight, then what is the real meaning of these words at first sight. This girl like a breeze blows into the heart of Yamato and opens up the story of Yamato and the cool breeze.
 
-讲述了风夏父母的初见，该说风夏的谢幕了。对啊，风夏死了，死了啊。大和与凉风经历了许多才最终在一起，甚至最后因为凉风怀孕双双放弃学业和田径开始步入社会，维持一个家庭，和刚刚诞生的秋月风夏组成的三口之家。
+Telling the first sight of the parents in the summer, it is said that the windy summer has ended. Yes, the wind is dead in summer, and it’s dead. Yamato and the cool breeze have gone through a lot of things, and even finally because the breeze pregnancy both gave up academics and track and field and began to enter the society, maintaining a family, and the just-born autumn months and summers composed of a family of three.
 
-最终这个让他们做出人生重大决定的女儿就这样简单地消失了。没有意义吗，有意义吗，意义在哪呢。
+In the end, the daughter who made them make a big decision in life simply disappeared. Does it make sense, does it make sense, and where is the meaning?
 
-这不只是牵扯到大和与凉风的梦想，风夏不也有吗，是啊，风夏也长大了，到了大和与凉风初识的那个年纪，也有了自己想做的事。风夏不喜欢手机，因为用手机玩游戏上网维持虚拟的人际关系不如现实中来的有实感，风夏喜欢听歌，常常头戴耳机站在学校天台上望着夏日的风景。
+This is not just a dream involving the big and the cool breeze. Doesn't the wind and summer have it? Yes, the wind and the summer have grown up. At the age when Daiwa and the cool breeze first met, I also had what I wanted to do. Wind and summer do not like mobile phones, because using mobile phones to play games online to maintain virtual interpersonal relationships is not as real as the reality, Feng Xia likes to listen to songs, often wearing headphones standing on the school rooftop looking at the summer scenery.
 
-风夏极其灵动，活泼开朗的性格很难让你想到她这静的一面。在天台听着歌远眺的模样足以获得当年凉风越过横杆时获得的倾慕。
+The wind and summer are extremely smart, and the lively and cheerful character makes it difficult for you to think of her quiet side. Listening to the song on the rooftop is enough to get the admiration of the cool breeze across the crossbar.
 
-风夏的男朋友是个沉迷推特的年轻人，也是她的同班同学。在他突然转来风夏班里的时候还发生了被风夏当做偷拍内裤的变态而把手机摔碎的事。很难想象不用手机的风夏会和他在一起吧，可是这又有什么问题呢。
+Feng Xia’s boyfriend is a young man who is addicted to Twitter and is also her classmate. When he suddenly turned to the wind and summer class, there was a thing that was broken by the wind and summer as a metamorphosis of the sneak trousers. It's hard to imagine that the summer without a mobile phone will be with him, but what's the problem?
 
-风夏出事故的那天本来是她梦想开始的一天。优的到来让风夏找到了自己想做的事，与其说是一种指引不如说是一种鼓励，优喜欢赞美风夏的声音，唱起歌来纯洁有力，像有空灵般的穿透力。风夏的声音很大也让优有所领教，在八公像前大喊着优的名字让周围所有人都犯了尴尬症。优说那就做乐队吧，风夏的声音没有问题的，与其说是没有问题不如说太好听了，不做音乐简直浪费。就是这样，这一天本来是风夏和优的乐队第一次登场比赛的时候，风夏却在路上遭遇了车祸。
+The day of the wind and summer accident was originally the day when her dream began. The arrival of excellent makes Feng Xia find what he wants to do. It is not so much a kind of guidance as an encouragement. He likes to praise the sound of summer and summer, and sings songs to be pure and powerful, like an ethereal penetration. . The sound of the wind and summer is also very good, so I have a good name in front of the eight statues, so that everyone around me has committed snoring. If you say that you want to be a band, there is no problem with the sound of the wind and summer. It is better to say that it is too good to say that there is no problem. It is a waste of not making music. That's it, this day was originally the first time that Feng Xia and You's band debuted, but the wind and summer suffered a car accident on the road.
 
-比赛时风夏迟迟不来，没办法风夏又不用手机也无法联系，优被乐队成员和主办方强推到了主唱的位置。最终结果却令现场所有人瞠目结舌，原来像风夏那样天才般的歌声这个乐队还有一人拥有！
+During the competition, the summer was slow, and there was no way to contact the summer without using a mobile phone. The members of the band and the organizers pushed the position of the lead singer. The final result made everyone on the scene stunned. The original genius song like the wind summer is still owned by this band!
 
-可是这一切似乎没有了意义，有一些东西谁都无法躲避。比赛之后，优在风夏走过的路的一旁坐着，手里拿着的手机早也关了机。路旁经过的小孩子看上去很好奇就问：大哥哥，你在等人吗？诶手机没电了是要给女朋友打电话吗。优看起来还是和平常一样，只是双手撑着长椅：是啊，可是我女朋友不用手机的。
+But all this seems to have no meaning, there are some things that can't be avoided. After the game, I sat on the side of the road that I had traveled in the summer, and the mobile phone in my hand had already been turned off. The little child passing by the road looks very curious and asks: Big brother, are you waiting for someone?诶 If you have no power, please call your girlfriend. Excellent looks like usual, just holding the bench with both hands: Yes, but my girlfriend doesn't need a mobile phone.
 
-优很自责，为什么那天自己没有和风夏一起去比赛，为什么风夏死了连自暴自弃的勇气都没有，脸上绷直的表情想要竭力维持一个正常人的模样。
+I am very self-blaming. Why didn’t I go to the competition with the wind summer? Why did the wind and summer die and I didn’t have the courage to renounce myself? The straight expression on my face tried to maintain the appearance of a normal person.
 
-可是风夏确实离开了，在那之后优想继续实现风夏理想，经过多次劝说之前的乐队成员也都再一次回来了，毕竟是风夏选择的成员。风夏离开一年后，第二次比赛，来了。
+However, the wind and summer did leave, and after that, I wanted to continue to realize the ideal of the summer. After many persuasion, the band members also came back again. After all, they were members of the summer and summer. After the wind and summer left a year, the second match came.
 
-那是一天夜里，优来到比赛场馆附近看看，走出车站被人群里窜出的歌声所吸引，这不是风夏和他最喜欢的「星落的小镇」吗。穿过人群，优看到了弹着吉他唱歌的女孩，虽然也不是长发，虽然有些相似，可是这个女孩和风夏还是有些差别，风夏可不怎么弹吉他。如果说风夏像是天使，而这个女孩就像出现在优眼前的精灵。
+That is, one night, I came to the vicinity of the competition venue, and the exit from the station was attracted by the songs from the crowd. Isn't this the summer and his favorite "star-falling town"? Through the crowd, I saw the girl who played the guitar singing, although it is not long hair, although it is similar, but this girl and the summer is still somewhat different, the wind summer can not play the guitar. If the summer is like an angel, and this girl is like an elf who appears in front of the good.
 
-突然感到的寒意让优意识到了时间，回过神来周围已经没人了，有的只是还在弹奏的女孩。优试着问：你还要弹到什么时候，虽然我也很喜欢继续听就是了，可是这么晚女孩子回家不太安全吧。女生听了满不高兴的样子：哼，谁叫你听得那么入迷啊，这样的话我怎么好一个人自说自话地离开啊！优顿时脸就红了，不过幸好有人来解了围，不幸的是来者乃车站管理人员，而且还凶恶地走过来问道：诶你们在这里干什么啊，要摆摊到别处啊！女孩见此情形拎起吉他包甩给优说到：快跑！
+Suddenly the chill felt that I realized the time. There was no one around me. Some girls were still playing. You try to ask: When do you want to play, although I also like to continue listening, but it is not safe for girls to go home so late. The girl listened to the unhappy look: Hey, who told you to be so fascinated, so how can I leave myself alone! When he was in a good mood, he was red, but fortunately someone came to solve the problem. Unfortunately, the attendant was the station manager, and he came up fiercely and asked: "What are you doing here, you have to spread it elsewhere!" When the girl sees this situation, she picks up the guitar bag and gives it to her: Run!
 
-听着风声过了一会儿，女孩叫优停下：现在应该没问题了，在台阶那里休息一下吧。女孩的穿着十分摩登，和这把吉他很配，黑色短夹克里面是性感但不失稳重的背心，下面穿着的则是短牛仔裤。优有些不自然就想找些话题：你的歌真好听啊，正巧我也是做乐队的，来这附近就是来参加比赛的。女孩听了略感惊讶，原来她的乐队也会在这次比赛中登场，于是她就开这玩笑让优给她唱一段。优唱了一段「星落的小镇」，女孩似乎也听得很入神，两人居然坐着唱歌唱到了第二天早上！最后这个要强的女孩和优约定要在比赛场上决胜负：你叫优是吧，不用手机确实挺奇怪的，不过无所谓啦，反正过几天比赛上会见的 ——
+After listening to the wind for a while, the girl called the best stop: now it should be no problem, take a rest on the steps. The girl's dress is very modern, and the guitar is very good. The black short jacket is a sexy but steady vest, and the short jeans are worn below. Some are unnatural and want to find some topics: Your song is really nice, I happen to be a band, come here to participate in the competition. The girl was a little surprised to hear that her band would also appear in the game, so she opened the joke and gave her a sing. Singing a piece of "star-falling town", the girl seemed to be very fascinated, and the two actually sat singing and singing the next morning! In the end, this girl who wants to be strong and the best agreement must decide the outcome in the game field: You call it excellent, it is really strange to not use the mobile phone, but it doesn’t matter, anyway, I will meet in the game in a few days.
 
-优：对了你还没说你叫什么呢！
-女孩：风夏，碧井风夏。
+Excellent: Right, you haven't said what you are calling!
+Girl: Wind summer, Bijing wind summer.

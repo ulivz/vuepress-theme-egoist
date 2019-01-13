@@ -1,5 +1,5 @@
 ---
-title: 二〇一五年七月新番回顾
+title: Review of the new report in July 2015
 date: 2015-10-01 22:46:01
 tags:
 - anime
@@ -7,47 +7,45 @@ categories:
 - anime
 ---
 
-国庆第一天就要结束了，也就是说今年七月新番也变旧番了。周末没更新的日子挺难熬，写篇回顾打发时间。
+The first day of the National Day is coming to an end, that is to say, the new fan in July this year has also become old. The days when the weekends were not updated were quite difficult. Write a review and pass the time.
 
-本季刚开始最吸引我的竟然是 **「没有黄段子存在的无聊世界」**，在七月之前的新番介绍里我大概直接忽略了这部动漫，我心想是无聊搞笑番就无视了，哪只虽然的确很搞笑，不过非常能够刷新我节操的下限，为我打开了新世界的大门，于是它成为我每周必追。不管是教主的笑声，还是安娜前辈的妹汁都让我对每一集充满期待。
+At the beginning of this season, what attracted me most was the ** "The boring world without the existence of the yellow section"**. In the introduction of the new fan before July, I probably ignored this anime directly. I thought it was boring and funny. Ignore it, although it is really funny, but it is very refreshing the lower limit of my exercise, opening the door to the new world for me, so it becomes my weekly chase. Whether it is the laughter of the teacher or the sister juice of Anna's predecessors, I am full of expectations for each episode.
 
 
-再来说 **「出包女王」** 和 **「我老婆是学生会长」**，无疑这也是我每周必追，原因显而易见，无修版是上天赐予我的礼物。
+Let's talk about ** "Queen of the package" ** and ** "My wife is the president of the student" **, no doubt this is what I must chase every week, the reason is obvious, no revision is a gift from God.
 
-上一季没播完的 **「食戟之灵」** 我是属于萌女主的类型，这类黑长傲娇属性冷的类型对我的伤害太大，欲罢不能。
+** "The Spirit of the Restaurant" ** not in the last season ** I am a type of Meng female lord, this kind of black long arrogant attribute cold type is too much damage to me, can not stop.
 
-看 **「干物妹小埋」** 小埋完全是因为看到很多人的好评，本来对这种废萌日常提不起劲的但看过一两集之后我就也买了薯片可乐两三天全部补完了。现在的每周星期四晚上变成了我的小埋夜，从未感到薯片加可乐如此地诱人，确定这部番不是乐事宣传片吗 XD
+Look at the ** "dry little girl buried" ** Xiao buried completely because I saw a lot of people's praise, I couldn't make any effort on this kind of waste, but after I saw one or two episodes, I also bought potato chips cola two All three days have been completed. Now every Thursday night turns into my little night, never feels that the potato chips and cola are so enticing, is this a piece of music not a good thing? XD
 
-**「魔法少女伊莉雅」** 和 **「赤发白雪姬」** 前几集挺有意思，后面看着看着追不下去了。
+** "Magic Girl Elia" ** and ** "Red Hair White Snow Ji" ** The first few episodes are quite interesting, and I can't catch up after watching.
 
-**「监狱学园」** 没什么萌点啊，但是花学姐的保健室play 真的让我精尽人亡，这部番没了如此有魅力的花学姐简直不敢想象！为了花学姐的福利漫画动画都追了。
+** "Prison Academy" ** Nothing cute, but the flower room sister's health room play really made me die, this is not such a charming flower school sister can not imagine! We pursued for the welfare comics animation of flower school sister.
 
-**「龙珠超」** 也是我很期待的，毕竟龙珠全系列我都非常喜欢，开头是类似神与神的内容，到后面应该会有更精彩的展开。
+** "Dragon Ball Super" ** is also what I am looking forward to. After all, I like the Dragon Ball series very much. At the beginning, it is similar to God and God. There should be more exciting development in the back.
 
-对于大魔王的 **「夏洛特」** 自然也是吐槽之声遍地，总而言之就是太多的龙套和神跳跃的剧情让我攒了很多想寄刀片的欲望。结局也是无力吐槽，虽然对于男主算是 Happy End 可是也算太勉强的结局了。前期日常后期屌丝逆转拯救世界的片子可以数得出来都是烂片，我并不是在说 **「罪恶王冠」**，因为它并没有太多龙套剧情、消失的人物和奇怪的剧情发展，再说配乐上罪恶王冠就够你重播一百遍了。于是夏洛特无疑成为又一部观众愿意看的烂片。
-
-最后终于到该说本季女神了！教主虽好可我其实喜欢三无类型的女主，于是 **「六花的勇者」** 里的芙蕾米毫无疑问继上季 **「在地下城寻求邂逅是否搞错了什么」** 中的剑姬成为我的新任女神。魅力源自抹胸上衣一点没错。
+For the big devil's ** "Charlotte" ** is naturally the sound of Tucao, in short, too many dragons and God's jumping story made me want a lot of desire to send a blade. The ending is also unable to vomit, although it is a happy end for the male owner, but it is too reluctant ending. In the early days of the day, the reversal of the film to save the world can be counted as rotten films. I am not talking about the "sinful crown" because it does not have too many dragon plots, disappearing characters and strange plot development. Besides, the sin crown on the soundtrack is enough for you to replay a hundred times. So Charlotte is undoubtedly another rotten film that the audience is willing to watch.
 
 ---
 
-以上就是七月新番回顾，对于十月新番目前没什么感兴趣的，除了 **「一拳超人」** 和 **「终结的炽天使」** 后半部外。遥想去年十月新番 **「寄生兽」** 和 **「东京食尸鬼」** 真是把我的十月炸开了锅，今年还会有如此良辰的十月吗？
+The above is the review of the July New Fan. There is nothing to be interested in the October New Fan, except for the ** "One Punch Superman" ** and the ** "The Ending Blazing Angel" ** the second half. I think about the new fan in October last year. ** "Parasitic Beast"** and ** "Tokyo Ghoul"** I really blasted my October, will there be such a good October?
 
-不会有吧，大概。
+No, maybe.
 
 ---
 
-最后是一个本季我的追番列表：
+Finally, this is a list of my follow-ups this season:
 
-- 学园孤岛 ★★★
-- 食戟之灵 ★★★★
-- 监狱学园 ★★★★
-- 魔法少女伊莉雅 ★★☆
-- 夏洛特 ★★★★
-- 黄段子不存在的无聊世界 ★★★★☆
-- 六花的勇者 ★★★★
-- 龙珠超 ★★★☆
-- 出包女王 ★★★★
-- 赤发白雪姬 ★★★
-- 我老婆是学生会长 ★★★★
-- 干物妹小埋 ★★★★
-- 黑街 ★★★
+- Gakuen Island ★★★
+- The Spirit of the Restaurant ★★★★
+- Prison Academy ★★★★
+- Magical Girl Ilia ★★☆
+- Charlotte ★★★★
+- The boring world where the yellow piece does not exist ★★★★☆
+- Liuhua's brave ★★★★
+- Dragon Ball Super ★★★☆
+- Out of the package queen ★★★★
+- Red Hair White Snow Ji ★★★
+- My wife is the student president ★★★★
+- Dry matter little buried ★★★★
+- Black Street ★★★

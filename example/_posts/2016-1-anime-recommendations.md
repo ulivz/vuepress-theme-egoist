@@ -1,38 +1,38 @@
 ---
-title: 二〇一六年一月新番推荐
+title: New Fan recommended in January 2016
 date: 2016-01-30 18:54:29
 tags:
 	- anime
 ---
 
-## <span>周一</span>
+## <span>Monday</span>
 
-**最弱无败的神装机龙** 又是落第骑士和学战都市的剧情。
+** The weakest and undefeated god-loading machine dragon ** is the story of the fallen knight and the school of war.
 
-## <span>周二</span>
+## <span>Tuesday</span>
 
-没有！
+No!
 
-## <span>周三</span>
+## <span>Wednesday</span>
 
-**无彩限的怪灵世界** 乳摇不要钱！
+**No color limit of the strange world ** Milk shake no money!
 
-## <span>周四</span>
+## <span>Thursday</span>
 
-并没有。
+not at all.
 
-## <span>周五</span>
+## <span>Friday</span>
 
-**粗点心战争** 吃个东西都好污！
+**Rough snack war ** Eating something is filthy!
 
-## <span>周六</span>
+## <span>Saturday</span>
 
-**亚人** 确定不是超级赛亚人？我喜欢男主的性格 233
+**Asian ** Are you sure you are not a Super Saiyan? I like the character of a man 233
 
-**重装武器** 半年番，未看够。
+**Reloading weapons** Half a year, not enough.
 
-**GATE 奇幻自卫队** 我要看男主带后宫刷巨龙！
+**GATE Fantasy Self-Defense Force ** I want to see the man with the harem brush dragon!
 
-## <span>周日</span>
+## <span>Sunday</span>
 
-**龙珠超** 回忆童年。
+**Dragon Ball Super** Reminiscing childhood.

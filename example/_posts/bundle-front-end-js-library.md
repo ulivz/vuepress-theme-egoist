@@ -1,5 +1,5 @@
 ---
-title: 优雅地打包前端 JavaScript 库
+title: Elegantly package front-end JavaScript libraries
 date: 2016-11-16 15:55:48
 tags:
   - javascript
@@ -7,56 +7,56 @@ tags:
   - bili
 ---
 
-打包 JS 库没有打包 Web App 那样复杂，但还是可以变得更简单。
+Packaging JS libraries are not as complex as packaging Web apps, but they can be made simpler.
 
-## <span>常见用例</span>
+## <span>Common Use Cases</span>
 
-一个 JS 库一般需要一个 CommonJS 版本，它不会打包 node_modules 里的模块。以及一个 UMD 版本的，用于在浏览器中直接使用，它会打包 node_modules 里的模块。
+A JS library generally requires a CommonJS version, which does not package modules in node_modules. And a UMD version for direct use in the browser, it will package the modules in node_modules.
 
-使用 [bili](https://github.com/universe-denpa/bili) 一切都会变得简单，简单到只需要一条命令:
+Using [bili](https://github.com/universe-denpa/bili) everything will be simple and simple enough to require only one command:
 
 ```bash
-bili --format cjs --format umd --module-name MyModule
+Bili --format cjs --format umd --module-name MyModule
 ```
 
-这条命令的意思是打包 `./src/index.js` 到 `./dist` 目录，并且转换成 `CommonJS` 和 `UMD` 格式的文件，其中 `UMD` 格式中模块名设定为 `MyModule`，这样在浏览器中就可以通过全局变量 `MyModule` 引用。
+This command means to package `./src/index.js` to the `./dist` directory and convert it to files in the `CommonJS` and `UMD` formats, where the module name in the `UMD` format is set to ` MyModule`, so that it can be referenced in the browser via the global variable `MyModule`.
 
-如果你同时需要一个压缩后的 UMD 格式文件，直接加上 `--compress` 参数就能额外得到一个 `.min.js` 和它的 `sourcemap` 文件。
+If you need a compressed UMD format file at the same time, you can get a `.min.js` and its `sourcemap` file by adding the `--compress` parameter.
 
 ## <span>ES2015</span>
 
-打包的一个目的就是使用 Babel 之类的转换器编译 ES next 到 ES5，bili 默认使用 [buble](https://buble.surge.sh/guide) 来转换 JavaScript 代码，相比 Babel 它更轻量。
+One of the goals of packaging is to compile ES next to ES5 using a converter like Babel. By default, bili uses [buble](https://buble.surge.sh/guide) to convert JavaScript code, which is much lighter than Babel.
 
-你当然也可以在 bili 中使用 babel 来编译代码，这需要用到 bili 的配置文件 `bili.config.js`:
+You can of course use babel to compile code in bili, which requires the bili configuration file `bili.config.js`:
 
 ```js
-module.exports = {
-  jsCompiler: require('rollup-plugin-babel')({
-    presets: ['preset']
-  })
+Module.exports = {
+  jsCompiler: require('rollup-plugin-babel')({
+    Presets: ['preset']
+  })
 }
 ```
 
-bili 是基于 [Rollup](https://github.com/rollup/rollup) 的，所以相关 Rollup 插件都可以用来编译 JS 代码。
+Bili is based on [Rollup] (https://github.com/rollup/rollup), so the relevant Rollup plugin can be used to compile JS code.
 
 ## <span>Buble</span>
 
-正如之前说了，默认我们使用 `buble`，你可以在配置文件中更改 buble 的配置参数:
+As I said before, by default we use `buble`, you can change the buble configuration parameters in the configuration file:
 
 ```js
-module.exports = {
-  buble: {
-    objectAssign: 'objectAssign'
-  }
+Module.exports = {
+  Buble: {
+    objectAssign: 'objectAssign'
+  }
 }
 ```
 
-值得一提的是，buble 不支持 `async/await` 并且不能将 `generator` 转换成 ES5 代码，所以我们保留了 generator 代码并且用 [async-to-gen](https://github.com/leebyron/async-to-gen) 将 `async/await` 转换到 `generator`，如果用到了这两个请考虑浏览器兼容性，或者换成 babel 来编译。
+It's worth mentioning that buble doesn't support `async/await` and can't convert `generator` to ES5 code, so we keep the generator code and use [async-to-gen] (https://github.com/leebyron /async-to-gen) Convert `async/await` to `generator`. If you use both, please consider browser compatibility, or replace it with babel to compile.
 
 ## <span>Watch mode</span>
 
-在开发的时候编译代码没有 `watch` 模式会非常痛苦，想开启 bili 的 watch 模式可以直接加上 `--watch` 参数。
+Compiling the code without the `watch` mode during development can be very painful. To open the bili watch mode, you can add the `--watch` parameter directly.
 
-## <span>更多资料</span>
+## <span>More information</span>
 
-bili 还内置了一些常用的 Rollup 插件，更多使用方法请参考 bili 的 [GitHub Wiki](https://github.com/universe-denpa/bili/wiki) 页面。
+Bili also has some built-in Rollup plugins. For more information, please refer to bili's [GitHub Wiki] (https://github.com/universe-denpa/bili/wiki) page.

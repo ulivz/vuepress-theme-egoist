@@ -1,5 +1,5 @@
 ---
-title: 二〇一六年的前端入门指南
+title: Beginner's Guide to 2016
 subtitle: JavaScript is supposed to be easy and powerful, for all of us.
 date: 2016-02-06 15:10:05
 tags:
@@ -7,126 +7,126 @@ tags:
  - frontend
 ---
 
-年初在 V2EX 看到很多人发帖问前端如何入门，我姑且来分享一下我的经验。
+At the beginning of the year at V2EX, I saw a lot of people posting questions about how to get started. Let me share my experience.
 
-或许你不知道我是谁，不过如果你对前端有兴趣，都可以联系我帮你 Review 代码、提供改进建议，这有我的 [GitHub](https://github.com/egoist) 地址。
+Maybe you don't know who I am, but if you are interested in the front end, you can contact me to help you with the Review code and provide suggestions for improvement. This is my [GitHub] (https://github.com/egoist) address.
 
-我假设阅读者只了解过简单的 HTML/CSS。
+I assume that the reader has only learned about simple HTML/CSS.
 
 ## <span>HTML</span>
 
-HTML 没有了 CSS 就什么都不是，它相当于给网页各个区域命名，然后让你可以进行更多的操作。比如头部导航栏，你经常会给它起个名字叫 `header`。
+HTML doesn't have anything without CSS. It's equivalent to naming each area of ​​the page and then allowing you to do more. For example, the head navigation bar, you often give it a name called `header`.
 
 ## <span>CSS</span>
 
-CSS 是层叠样式表（Cascading Style Sheets）的缩写，它是用来定义你的 HTML 的展现形式的一种语言。比如让你的 HTML 里的文字显示不同字体，一个元素显示不同的高度。
+CSS is an acronym for Cascading Style Sheets, a language used to define the presentation of your HTML. For example, let the text in your HTML display different fonts, and one element displays different heights.
 
 ## <span>HTML+CSS</span>
 
-HTML 和 CSS 都是语法非常**松散**的语言，这样的导致了它们入门非常简单，然而一旦代码量变大维护就会很困难。
+Both HTML and CSS are languages ​​that are very grammatically loose, which makes them very easy to get started with, but once the amount of code gets bigger, it can be difficult to maintain.
 
-### 模板引擎
+### Template Engine
 
-假设你有两个网页，它们共用一个导航栏（header），然后只有主体（content）部分显示不同的内容，在已有知识背景下你只能做两个网页，把导航栏的代码复制两次。
+Suppose you have two web pages, they share a single header, and then only the content part shows different content. You can only do two web pages in the existing knowledge background and copy the code of the navigation bar twice. .
 
-于是有了模板引擎，比如 [pug](https://github.com/pugjs/pug)，他可以让你复用重复的模板，减少代码量，提高可维护性。
+So with a template engine, such as [pug] (https://github.com/pugjs/pug), it allows you to reuse duplicate templates, reduce code size, and improve maintainability.
 
-### CSS 处理器
+### CSS Processor
 
-看下面这段代码:
+Look at the following code:
 
 ```css
 .post {
-	font-size: 14px;
-	-webkit-box-shadow: 0 0 1px #ccc;
-	-moz-box-shadow: 0 0 1px #ccc;
-	box-shadow: 0 0 1px #ccc;
+Font-size: 14px;
+-webkit-box-shadow: 0 0 1px #ccc;
+-moz-box-shadow: 0 0 1px #ccc;
+Box-shadow: 0 0 1px #ccc;
 }
 
 .post .post-content {
-	font-size: 16px;
+Font-size: 16px;
 }
 
 .post .post-content .post-date {
-	color: #999;
+Color: #999;
 }
 ```
 
-你会发现上面的 `box-shadow` 写了三次，以便支持不同内核浏览器下的 `box-shadow` 这个属性。
+You will find the above `box-shadow` written three times to support the `box-shadow` attribute in different kernel browsers.
 
-还有随着代码量增大像 `.post .post-content .post-date` 这样长的定义会越来越长。
+Also, as the amount of code increases, long definitions like `.post .post-content .post-date` will get longer and longer.
 
-这是有了 CSS 处理器之后的代码:
+This is the code after the CSS processor:
 
 ```css
 .post {
-	font-size: 14px;
-	box-shadow: 0 0 1px #ccc;
-	.content {
-		font-size: 16px;
-		.date {
-			color: #999;
-		}
-	}
+Font-size: 14px;
+Box-shadow: 0 0 1px #ccc;
+.content {
+Font-size: 16px;
+.date {
+Color: #999;
+}
+}
 }
 ```
 
-嵌套的风格让作用域更清晰，你同时可以尽可能地只用标准的 CSS 属性然后让 CSS 处理器帮你兼容其它浏览器。推荐使用 [PostCSS](https://github.com/postcss/postcss)，它本身并不改变你的 CSS 代码，但它把你的代码抽象成一个 JavaScript 对象让你能够通过插件来随心所欲地进行操作，比如实现嵌套风格以及自动加 `-moz` `-webkit` 这些前缀。你可以自己写插件同时它已经有大量[现成的插件](https://github.com/postcss/postcss/blob/master/docs/plugins.md)供你使用。
+Nested styles make the scope clearer, and you can use only standard CSS properties whenever possible and then let the CSS processor help you with other browsers. It is recommended to use [PostCSS] (https://github.com/postcss/postcss), which does not change your CSS code itself, but it abstracts your code into a JavaScript object that allows you to do whatever you want with the plugin. For example, implementing nested styles and automatically adding the prefix `-moz` `-webkit`. You can write your own plugins and it already has a lot of [off-the-shelf plugins] (https://github.com/postcss/postcss/blob/master/docs/plugins.md) for you to use.
 
-要记住的是，它只是将你**自定义的 CSS 风格**转换成符合浏览器标准的 CSS，至于为什么？标准的 CSS 不够好用呗，比如刚才遇到的问题。
+The thing to remember is that it just converts your custom CSS style** into a browser-compliant CSS. Why? Standard CSS is not good enough, such as the problem you just encountered.
 
-## <span>HTML+CSS 小结</span>
+## <span>HTML+CSS Summary</span>
 
-现在你知道了 HTML/CSS 在一起使用的时候能干什么，也知道了用模板引擎、CSS 处理器可以让你更好地写 HTML/CSS。要记住，「更好」也许只是在代码量增大的情况下更明显。
+Now that you know what HTML/CSS can do when you use it together, you know that using the template engine and CSS processor can make you better write HTML/CSS. Keep in mind that "better" may only be more noticeable when the amount of code increases.
 
-那么这些模板引擎和 CSS 处理器是怎么实现的？很多都是用的 JavaScript。
+So how do you implement these template engines and CSS processors? Many are using JavaScript.
 
-推荐阅读: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) 正如其松散的特性一样，你需要多使用才能更好地掌握用法。
+Recommended reading: [Learn to Code HTML & CSS] (http://learn.shayhowe.com/html-css/) As with its loose features, you need to use more to get a better grasp of usage.
 
 ## <span>JavaScript</span>
 
-JavaScript 是一门真正的语言，它简单且强大。（以下简称 JS）
+JavaScript is a real language that is simple and powerful. (hereinafter referred to as JS)
 
-正如 HTML/CSS 是用于网页的样式呈现，JS （在过去）则是用于网页的交互操作上，比如用户点击了一个按钮然后弹出一个框，这些需要 JS 完成。
+Just as HTML/CSS is a style rendering for web pages, JS (in the past) is used for web page interactions, such as a user clicking a button and popping up a box, which requires JS to complete.
 
-JS 本身并不具有「监听用户点击」这一功能，在浏览器上，现代浏览器都内置了网页 DOM API，它提供了一套 JS 接口，让你可以用 JS 调用来实现相应功能，而这些功能本身是基于更低级的 C/C++ 语言实现的。
+JS itself does not have the function of "listening user clicks". In the browser, modern browsers have built-in web page DOM API, which provides a set of JS interfaces, so that you can use JS calls to implement the functions. The functionality itself is based on a lower level C/C++ language.
 
-因此，一名及格的前端需要掌握 JS 的基础，比如变量、数组、函数这些几乎所有语言都有的特性，然后就是 DOM API，缺了这个实现网页交互就是纸上谈兵。
+Therefore, a qualified front end needs to master the basics of JS, such as variables, arrays, functions, and the characteristics of almost all languages, and then the DOM API. The lack of this implementation of web page interaction is a piece of paper.
 
-推荐阅读: [MDN Web API](https://developer.mozilla.org/zh-CN/docs/Web/API) 非常全，需要更渐进的指南建议 Google。
+Recommended reading: [MDN Web API] (https://developer.mozilla.org/zh-CN/docs/Web/API) is very comprehensive and requires a more gradual guideline for Google.
 
-至于学习 JS 这门语言，推荐三本众所周知的，你并不需要全部都看，挑一本或两本尽量搞清楚就行了:
+As for learning the language of JS, I recommend three well-known ones. You don't need to look at it all. Pick one or two books and try to figure it out:
 
-- [JavaScript 权威指南](https://book.douban.com/subject/10549733/)
-- [JavaScript 高级程序设计](https://book.douban.com/subject/10546125/)
-- [JavaScript 语言精粹](http://book.douban.com/subject/3590768/)
+- [JavaScript Definitive Guide] (https://book.douban.com/subject/10549733/)
+- [JavaScript Advanced Programming] (https://book.douban.com/subject/10546125/)
+- [The essence of JavaScript] (http://book.douban.com/subject/3590768/)
 
 
 ## <span>Node.js</span>
 
-刚才说过，过去的 JS 就是 JS 本身加上浏览器的 DOM API，于是就有人想到了：能不能把浏览器 DOM API 换成用户操作系统的 API？这样 JS 看起来就更像一门「真正的语言」，即可以在用户本地环境而不只是在浏览器中运行。
+As I said earlier, the past JS is the JS itself plus the browser's DOM API, so some people think of it: Can you replace the browser DOM API with the API of the user's operating system? This way JS looks more like a "real language" that can be run in the user's local environment and not just in the browser.
 
-幸好，谷歌浏览器（Chrome）使用的 JavaScript 运行环境（v8）发展到近几年已经能非常快地将 JS 代码转为机器码，于是 Node.js 的先驱们就成立了这个组织，基于 Chrome v8 引擎实现了一个跨平台 JavaScript 运行环境 —— 即现在非常流行的 Node.js。
+Fortunately, the JavaScript runtime environment (v8) used by Google Chrome has evolved to convert JS code to machine code very quickly in recent years, so the pioneers of Node.js set up this organization, based on Chrome v8. The engine implements a cross-platform JavaScript runtime environment - now very popular Node.js.
 
 ---
 
-这样的感觉是不是很好? JavaScript 开发者的工具也能用 JavaScript 开发了！这才是副标题里描述的「easy and powerful」的前提。
+Is this feeling good? JavaScript developers' tools can also be developed in JavaScript! This is the premise of "easy and powerful" described in the subtitle.
 
-### 如何学习 Node.js
+### How to learn Node.js
 
-大同小异，如果你在之前知道了如何学习 JavaScript。无非是 JS 本身加上 Node.js 提供的 API 而已。你可以直接打开 Node.js 官网查看其 API。
+It's a big deal, if you know how to learn JavaScript before. It's nothing more than JS itself plus the API provided by Node.js. You can view the API directly by opening the Node.js website.
 
-Node.js 只是一个运行环境，类似于 Java 的 JVM，最重要的还是 JavaScript 本身。
+Node.js is just a running environment, similar to the Java JVM, and the most important thing is the JavaScript itself.
 
 ## <span>ES6</span>
 
-很大的可能你现在都是在用 ES5 标准的 JavaScript 语法，而 ES6 则是 TC39(负责制定 JavaScript 语言标准的机构) 在 2015 年新推出的语言标准。
+It's very likely that you are now using the ES5 standard JavaScript syntax, and ES6 is the new language standard introduced in 2015 by TC39, the organization responsible for developing JavaScript language standards.
 
-**为什么我要学新的 ES6 标准?**
+**Why should I learn a new ES6 standard?**
 
-- 你不必。因为 ES6 及以后的任何一个新的 JS 标准都是向后兼容的，也就是说任何你现在写的代码也是符合未来版本的 JS 的标准的。
-- 为什么不？试试又不会怀孕，而且你会有眼前一亮的感觉。任何语言都是在进化的，特别是前端发展那么快。
+- you should not. Because ES6 and any new JS standards in the future are backwards compatible, meaning that any code you write now is also compliant with future versions of JS.
+- why not? Try it and don't get pregnant, and you will have a bright feeling. Any language is evolving, especially as the front end develops so fast.
 
-说得差不多了，不过你可能奇怪为什么不介绍如何学习一些 JS 框架呢？比如 jQuery、Angular、React、Vue 这些。
+It’s almost the same, but you might wonder why you didn’t introduce how to learn some JS frameworks? Such as jQuery, Angular, React, Vue.
 
-OK，下期就是这些框架的介绍，同时以后会介绍一些构建工具和其它相关内容。
+OK, the next issue is an introduction to these frameworks, and some build tools and other related content will be introduced in the future.

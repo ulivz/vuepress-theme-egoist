@@ -1,19 +1,19 @@
 ---
-title: 天下第一有趣的事
+title: The first interesting thing in the world
 date: 2015-11-04 23:23:31
 tags:
 - thoughts
 categories:
 - thoughts
 ---
-王小波说被剥夺了思维的乐趣是坠坏的事，于是看动画这件这个星球上最有趣的事无论如何是值得一试的。
+Wang Xiaobo said that the pleasure of being deprived of thinking is a matter of falling, so watching the most interesting thing on this planet is in any case worth trying.
 
-最有趣并不是浪得虚名，我也并没有故意做空看动画这件事的意思，完全没有这个意思。你可以不承认，但最好不要反驳。有趣的事不尽相同，但日光之下并无鲜事，我爸年轻时有趣的事就是看金庸的武侠小说，王小波则是觉得有书可看就是最幸福最有趣的，但万万不能是小红书，“被禁锢的有趣”不如让他去死。
+The most interesting thing is not that the name is so bad. I didn't mean to look at the animation on the air. I didn't mean it at all. You can't admit it, but it's best not to refute it. Interesting things are not the same, but there is nothing new in the sun. My dad’s interesting thing when he was young is to watch Jin Yong’s martial arts novels. Wang Xiaobo thinks that having a book is the happiest and most interesting, but it can’t be Xiaohongshu, "The fun of being imprisoned" is worse than letting him die.
 
-同样有趣的是，事情并没有出乎意料的改变，我们觉得有趣的事仍然具有相同的本质。现在我以看动画为乐。个中有趣的地方自然是不看的人无法体会的，甚至会产生歧义，比如我爸就是，“那么大了还看动画片？”这是我最近接收到的一句抱怨，我不以为然。
+Equally interesting is that things haven't changed unexpectedly, and what we find interesting is still the same essence. Now I am happy to watch animation. The interesting places are not experienced by people who don't see it, and even ambiguous. For example, my dad is, "Is it big to watch cartoons?" This is a complaint I recently received, I don't think so.
 
-任何事物都可以有完全对立的说法，“返璞归真”相应的可以得到“幼稚”、“百无聊赖”的回应，你很难给你对立面的人解释一些显而易见却又仁者见仁的事。
+Anything can be completely opposite. "Returning to the truth" can get a "naive" and "boring" response. It is difficult for you to explain to the opposite person some obvious but benevolent things.
 
-但天下第一有趣是万万不可反驳的。
+But the first fun in the world is irresistible.
 
-就像做人自然是相当有趣的，但有人也会觉得做只猫做只狗也挺有意思，这样的话我是自然不会和他们争辩些什么的，毕竟不久后就会产生生殖隔离的两个物种没必要进行感情交流。
+Just like being a person is naturally quite interesting, but some people think that it is also very interesting to be a cat to be a dog. In this case, I naturally would not argue with them. After all, there will be two species of reproductive isolation soon. There is no need for emotional exchanges.

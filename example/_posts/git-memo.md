@@ -1,5 +1,5 @@
 ---
-title: Git 备忘录
+title: Git memo
 date: 2015-10-07 21:18:54
 tags:
 - git
@@ -7,64 +7,64 @@ categories:
 - git
 ---
 
-Git 的一些常用操作备忘。
+Some common operational notes for Git.
 
-## <span>起步</span>
+## <span>Starting</span>
 
-安装好 Git 之后，配置你的资料:
+After installing Git, configure your profile:
 
 ```bash
-# 配置用户名
-git config --global user.name "Your Real Name"
-# 配置邮箱地址
-git config --global user.email you@email.address
+#Configuring username
+Git config --global user.name "Your Real Name"
+# Configure email address
+Git config --global user.email you@email.address
 ```
 
-之后生成 SSH 密钥:
+Then generate an SSH key:
 
 ```bash
-ssh-keygen -C 'your@email.address' -t rsa
+Ssh-keygen -C 'your@email.address' -t rsa
 ```
 
-**初始化一个项目**
+**Initialize a project**
 
 ```bash
-# 初始化 git 项目
-git init
-# 添加一个叫 origin 的源
-# 使用 ssh 地址
-git remote add origin git@github.com:username/reponame.git
-# 使用 username/password 登录 https 地址
-git remote add origin https://username@password:github.com/username/reponame.git
+# Initialize the git project
+Git init
+# Add a source called origin
+# Using ssh address
+Git remote add origin git@github.com:username/reponame.git
+# Login to https address using username/password
+Git remote add origin https://username@password:github.com/username/reponame.git
 ```
 
-**推送到服务器**
+**Push to server**
 
 ```bash
-# 记录所有新增和删除的文件
-git add -A
-# 更新理由
-git commit -m "message"
-# 推送到服务器端
-git push origin master
+# Record all newly added and deleted files
+Git add -A
+# Update reason
+Git commit -m "message"
+# Push to the server side
+Git push origin master
 ```
 
-**更新到本地**
+**Update to local **
 
 ```bash
-# 源 + 分支名
-git pull origin master
+#源 + branch name
+Git pull origin master
 ```
 
-**克隆项目**
+**Clone project**
 
-下载代码时有用:
+Useful when downloading code:
 
 ```bash
-# 克隆到以这个项目名命名的文件夹
-git clone https://github.com/username/reponame.git
-# 克隆到你自定义的文件夹
-git clone https://github.com/username/reponame.git name
+# clone to a folder named after this project name
+Git clone https://github.com/username/reponame.git
+# clone to your custom folder
+Git clone https://github.com/username/reponame.git name
 ```
 
 *Keep Updating...*

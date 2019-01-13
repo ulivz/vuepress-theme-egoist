@@ -1,5 +1,5 @@
 ---
-title: 二〇一五年十月新番推荐
+title: Recommended in October 2015
 date: 2015-10-13 11:29:50
 tags:
 - anime
@@ -8,46 +8,46 @@ categories:
 
 ---
 
-又到了 EGOIST 带你看新番环节了，今年的十月新番还是有几部符合我的口味，我将从周一到周日推荐一些我在追的番。
+It’s time for EGOIST to take you to the new section. This year’s October new season is still in line with my taste. I will recommend some of the games I am chasing from Monday to Sunday.
 
-## <span>周一</span>
+## <span>Monday</span>
 
-只推荐一部，「一拳超人」。我没看过漫画，不过一拳男挺逗比的，看够了卖肉卖萌也看看一拳男装逼吧。
+I only recommend one, "One Punch Superman." I haven't seen the comics, but the punches are quite funny, and I have enough to watch the meat and sell it.
 
-## <span>周二</span>
+## <span>Tuesday</span>
 
-无聊的日子，没有推荐。
+Boring days, no recommendations.
 
-## <span>周三</span>
+## <span>Wednesday</span>
 
-毫无疑问有「关于我被绑架到贵族女校当庶民样本的事」，别理我，看图。
+There is no doubt that there is a "about me being kidnapped to a noble female school as a sample of the public." Let me ignore it and look at the picture.
 
 ![anime](https://ooo.0o0.ooo/2015/10/12/561c7d0bceeb6.png)
 
-## <span>周四</span>
+## <span>Thursday</span>
 
-仍然无聊。
+Still boring.
 
-## <span>周五</span>
+## <span>Friday</span>
 
-漫画之神手冢治虫的作品「青年黑杰克」，医学番我看得少，这部的配乐和剧情都很有那个时代的感觉。
+The work of the goddess of manga, "The Black Jack of Youth", I have seen less in medicine. This soundtrack and plot are very different in that era.
 
-## <span>周六</span>
+## <span>Saturday</span>
 
-「新妹魔王的契约者 BURST」我看了第一期，看得我都石更了，所以继续追。
+"The new sister devil's contractor BURST" I saw the first issue, I saw that I was stoned, so I continued to chase.
 
-「重装武器」当然是萌女主，略三无的萝莉。
+"Reloading weapons" is of course a cute woman, a little Loli.
 
-「落第骑士英雄谭」我是妹控，喜欢妹纸主动献身。
+"I am a hero of the Lost Knights", I am a sister, and I like to dedicate myself to my sister.
 
-## <span>周日</span>
+## <span>Sunday</span>
 
-「传颂之物 虚伪的假面」的前作我并没有看，稍微看了看画风感觉不适合我。不过我喜欢这期的猫耳娘。
+I didn't read the predecessor of "The false face of the rumored thing". I didn't feel that it was suitable for me when I looked at the painting style a little. But I like this period of cat ears.
 
-「终结的炽天使 第2期」，人物很有趣，尽管作画和剧情被吐槽得严重，不过人设还是很经典的，好吧其实我只是喜欢克鲁鲁女王 233。
+"The Ending Blazing Angels Phase 2", the characters are very interesting. Although the paintings and plots are seriously spit, the people are still very classic. Well, I just like Queen Cluru 233.
 
-「进击！巨人中学」真是萌哭我了，而且还有我的初代女神米卡莎。
+"Immediate! Giants High School" is really crying me, and my first goddess Mikhasha.
 
 ---
 
-特别附送「女武神驱动」，没有圣光的肉番你值得拥有。
+Specially attached to "Women's Drive", you don't have the light of the Holy Light.

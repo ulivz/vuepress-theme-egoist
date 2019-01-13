@@ -1,81 +1,82 @@
 ---
-title: 二〇一六年七月新番推荐
+title: Recommended by New Fan in July 2016
 date: 2016-07-03 22:22:26
 tags:
  - animes
 ---
-本季我在追的新番大概有 12 部之多！是今年前两季（9、8部）所不能比的，不过之前的数据其实有些水分，有些番是我写了推荐之后才开始看的 XD 所以可能不止那个数字。
 
-## <span>周一</span>
+There are about 12 new fans in the season I am chasing! It is not comparable to the first two seasons of this year (9, 8), but the previous data is actually a bit hydrated. Some of them are XDs that I started to look after I wrote the recommendation, so it may be more than that number.
 
-### 弹丸论破3 未来篇
+## <span>Monday</span>
 
-完全是冲着弹丸论破第一季看的，据说新作是完全原创，总之还是怀着情怀先看一下，也许还不错呢。
+### Projectiles break 3 Future articles
 
-### orange橙色奇迹
+It is completely for the first season of the project. It is said that the new work is completely original. In short, it is still good to look at it with emotion. Maybe it is not bad.
 
-写信给十年前的自己，为了不让过去的自己做出那些让自己后悔的事！感觉是文艺版命运石之门。
+### orange orange miracle
 
-## <span>周二</span>
+Write to yourself ten years ago, in order not to let the past yourself make things that make you regret! Feeling is the door to the literary version of the destiny stone.
 
-### 灵能百分百
+## <span>Tuesday</span>
 
-ONE 老师另一作品，长得很像琦玉老师的双胞胎弟弟啊，动画肯定也很好看就是了。不多说了快上车吧！
+### 灵能百百
+
+Another work of ONE teacher, looks like the twin brother of Saitama, and the animation is definitely good. Not much to say, get on the train!
 
 ### 魔装学园H×H
 
-有着和「恶魔高校DxD」同样结构的名字一眼就能看出其内涵所在了，车已经开了。
+The name of the same structure as the "Devil College DxD" can be seen at a glance, and the car is already open.
 
-### 禁忌咒文
+### Taboo Mantra
 
-女主好像我的艾莲啊，而且打斗场面也很炫酷。
+The woman is like my Ai Lian, and the fighting scene is also very cool.
 
-## <span>周三</span>
+## <span>Wednesday</span>
 
-没有，陪女朋友吧。
+No, let's accompany your girlfriend.
 
-## <span>周四</span>
+## <span>Thursday</span>
 
-没有，去揉女朋友的胸吧。
+No, go to your girlfriend's chest.
 
-## <span>周五</span>
+## <span>Friday</span>
 
-### 弹丸论破3 绝望篇
+### Projectile Theory Break 3 Despair
 
-同之前的理由。
+Same as before.
 
 ### 半田君传说
 
-看介绍像七月的坂本君，不过不是逼王，是衰王 XD
+Look at the introduction of the 坂本君 like July, but it is not the king, it is the dying king XD
 
 ### ReLIFE
 
-尼特族男主吃下 APTX4869 后身体回到 17 岁重新体验高中生活，合法地泡女高中生。
+The Nite male lord eats APTX4869 and returns to the age of 17 to re-experience high school life and legally soak female high school students.
 
-## <span>周六</span>
+## <span>Saturday</span>
 
 ### 91Days
 
-这是个有关复仇的故事（阴暗。
+This is a story about revenge (darkness.
 
-### 食戟之灵 第二季
+### 食戟之灵 Season 2
 
-药王还有人不知道吗，我喜欢爱丽斯。
+Does the drug king still know, I like Alice.
 
-### 时间旅行少女
+### Time Travel Girl
 
-我喜欢时间穿越类的，比如以前的「穿越时空的少女」。
+I like time-traveling classes, such as the previous "girls who travel through time and space."
 
-## <span>周日</span>
+## <span>Sunday</span>
 
 ### 情热传说 the X
 
-ufotable 出品，经费当然不要钱。
+Ufotable produced, of course, do not need money.
 
 ### DAYS
 
-足球类的动画，看了一集我感觉足球配合相关的刻画还不错，相信会是个很燃的故事。
+The animation of the football class, I saw a set of episodes. I feel that the football-related characterization is not bad. I believe it will be a very burning story.
 
-### 七大罪 第二季
+### Seven Great Crimes Season 2
 
-只有四集，伊丽莎白粉当成 OVA 看吧！
+Only four episodes, Elizabeth powder as OVA!

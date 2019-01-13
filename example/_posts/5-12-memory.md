@@ -1,28 +1,29 @@
 ---
-title: 5·12 那天我在做什么
+title: 5·12 What am I doing that day?
 date: 2017-05-12 20:44:40
 tags:
 ---
-对于很久以前的事情，比如我在干什么、我在想什么，我的记忆都很模糊，这是滥用男性特殊能力的必然结果。
 
-不过九年前的那一天很特殊，当时我还是个初中二年级的学生，也就是处于字面意义上的「中二」阶段。那时的我似乎处于人生中如日中天的时期，学习上常年是年级前四，而在学校的某次活动上竟然有女生向我表白，这是现在的我万万不敢想的，她完全不了解我，只知道我成绩好就来表示自己的心意。而那天的我也很奇怪，中午吃过午饭我便一个人跑到了顶楼走廊上，倚着栏杆望向远方，能感受到的只有骄阳投射到我身上的温暖。之后便得出了我喜欢夏天这个结论，毕竟这可以让我享受到一个人如此惬意的时光，那个时候的我是一个拥有得不多但却十分知足的自诩「人生赢家」。
+For things that were a long time ago, such as what I am doing, what I am thinking, my memory is very vague, which is the inevitable result of the abuse of male special abilities.
 
-可是人类无论多么奇怪的行为都一定是有原因的啊，我也不例外。顺着记忆我发现了一些蛛丝马迹 —— 从楼顶下来我回到教室开始午睡了，走向我的座位前我势必要经过她的座位。原来是这样啊，原来青春期的我已经开始这种单恋了，在她面前经过，被注意到一下就能高兴一整天。
+However, the day nine years ago was very special. At that time, I was still a second-year junior high school student, which was in the literal "Secondary" stage. At that time, I seemed to be in the middle of my life. I learned that I was the top four in my grades. At a certain event in the school, there were girls who confessed to me. This is what I don’t dare to think about now. She is not at all. Know me, just know that my grades are good to express my feelings. I was very surprised that day. I had lunch at noon and I ran to the top floor corridor alone. Looking at the distance from the railing, I could only feel the warmth of the sun shining on me. After that, I came to the conclusion that I like summer. After all, this allows me to enjoy such a pleasant time. At that time, I was a self-proclaimed "winner of life" with little but full content.
 
-那个时候的我最喜欢的就是考试，因为这是唯一一种不能正确评判学生价值的方式，我靠着它取得了一些骄人的成绩，我那时喜欢看那些被判定为「没有价值」的同学的表情。而下午一开始便是生物课，正好也是月考，我知道又该涨潮了。之后的考试进行得很顺利，我飞速地挥动着笔想早早结束然后悠闲地在座位上观察别人答题的样子。我想玩点新鲜的，于是尝试将板凳立起来只靠后面两条板凳腿支撑这样坐着，随即产生了类似噗通抑或咔哒的动静，甚至隐约感到了从墙壁中传来的振动。「一定是附近工地在修房子，哗啦哗啦地将一片平房推倒的那种」，这样的事我在我家附近经常见到，产生这样的联想感觉没有毛病。可是不给我更多的思考时间，连课桌、给我们辛勤服务的吊扇、我踢球打碎过的玻璃、以及那个一脸生无可恋的生物老师都跳了起来！
+But no matter how strange the behavior of human beings, there must be a reason. I am no exception. I found some clues along the memory. From the top of the building, I went back to the classroom and started to take a nap. Before I walked to my seat, I had to go through her seat. It turned out to be the case. I used to have this unrequited love in adolescence. I passed in front of her and was noticed to be happy all day.
 
-「快跑！朱JJ！」
+At that time, my favorite thing was the exam, because this is the only way to not judge the value of the students correctly. I have achieved some impressive results by relying on it. I liked to watch those who were judged as "no value". The expression of the classmates. At the beginning of the afternoon, it was a biology class. It was also a monthly test. I know that it should be high. After the exam went very smoothly, I swung the pen quickly and wanted to finish early and then leisurely watched the answer in the seat. I wanted to play something fresh, so I tried to stand up the bench and just sit on the back of the two bench legs. Then I created a movement similar to 噗 噗 or 咔哒, and even felt the vibration from the wall. "It must be that the nearby construction site is repairing the house, and the one that knocks down the bungalow in a slap in the face." I often see this kind of thing near my home. There is nothing wrong with this association. But I don't give me more time to think, even the desks, the ceiling fans that give us hard service, the glass that I have broken the ball, and the biological teacher who has no face to love!
 
-这是生物老师发出的略带回音的喊声，她是在呼唤她那一米八的儿子，似乎就坐在我附近。而我不知是哪里的脑筋接到了脚上，抓起试卷就往外跑！跑到门口的时候我已经感觉不到教室里乱动的东西了，因为整栋楼都抖了起来，如果不是发生在我身边的事，只是作为用于娱乐的灾难片的话我会给出好评并撰写影评 ——「真实地让我感觉想吐」，然后推荐给其他人观看。可惜不是这样的，我第一次看到快被挤垮的楼道的样子，跑到楼下我回头看了看顶楼，很难相信我几个小时前还在那里歌颂人生，而现在我连妹子都没来得及看就匆匆穿行于人海。
+"Run! Zhu JJ!"
 
-到了操场后，感觉到应该安全了我便掏出试卷向周围的同学炫耀我的精神，同时也顺利地掩饰了慌不择路的尴尬。操场上得有七百来号人，大概是为数不多全校师生共聚一堂的机会，初三的小哥哥小姐姐们因为某些原因不会浪费时间到操场这个强健体魄的地方来。之后通过口口相传，我得知了学校要求我们在操场上边休息边等自己的家长来接回家。
+This is a slightly echoed shout from the biology teacher. She is calling her son of one meter eight and seems to be sitting near me. And I don't know where the brain is on the foot, grab the test paper and run out! When I ran to the door, I couldn’t feel the turmoil in the classroom, because the whole building was shaking. If it wasn’t happening to me, it’s just a disaster film for entertainment. And write a film review - "Really make me feel like I want to vomit" and then recommend it to others to watch. Unfortunately, this is not the case. The first time I saw the corridor that was being squeezed, I went downstairs and looked back at the top floor. It’s hard to believe that I was still there to sing a few hours ago, and now I even have a sister. They didn't have time to look at it and rushed through the crowd.
 
-而当时我没有手机，天知道我该怎么联系家长。
+When I got to the playground, I felt that I should be safe. I took out the test paper and showed off my spirit to the students around me. At the same time, I also successfully concealed the embarrassment of panic. There are seven hundred people on the playground. It is probably the opportunity for a small number of teachers and students to gather together. The younger brothers and sisters of the third grade will not waste time on the playground. After passing through the mouth, I learned that the school asked us to rest on the playground and wait for our parents to pick up.
 
-当时的我没有手机，当然更没有电脑，我甚至没有 QQ 号。我知道地震了，可是除此之外什么都不知道，我想应该不只是我的学校地震了，这我还是知道的。我很累，把七百人等到四百人的时候我想起了我有个打发时间的秘诀忘了用，于是便邀了一个死党跑着前去小便，在经过她身旁的时候做了个踩单车的动作想引起一些注意，可是效果我就不得而知了。
+At the time, I didn't have a mobile phone, and God knew how to contact my parents.
 
-在重复了几次类似的行为后我似乎更累了，开始在内心痛骂这些老师，不该做什么狗屁的规定要等到家长来接才能走，我也开始后悔自己的行为，大概之前的行为会被她当做神经病。之后感觉天上的火烧云都要烧到地上了班主任才说「走吧同学们，已经晚了自己回家小心哦」，谢天谢地，而且也得知了复课时间等具体通知的好消息。
+I didn't have a mobile phone at the time, and of course I didn't have a computer. I didn't even have a QQ number. I know the earthquake, but I don’t know anything else. I think it’s not just my school earthquake, I still know. I was very tired. When I waited for 700 people to wait for 400 people, I remembered that I had a secret to pass the time and forgot to use it. So I invited a dead party to run to urinate, and made a pass when she passed by her side. I want to get some attention when I step on the bicycle, but I don’t know the effect.
 
-我那个时候喜欢观察身边的一切，总觉得那天的天气挺不对劲，用我的话说就是天上是红色的却阴沉得厉害，还有一股妖风，走在回家的路上感觉大家都异常亢奋，我也不例外，一路小跑想回家看看电视想知道到底发生了什么。我家其实也就是我爸妈开的店，我和爸妈一起住在店里，一到家我看到他们将一些东西拖了出来摆到大街上，似乎是在预防些什么，之后吸引到我的就是一件方便面和一箱矿泉水，我从没在家里看到过以「件」出现的这两样东西，我很开心。
+After repeating several similar behaviors, I seem to be more tired. I started to scream at these teachers in my heart. The rules for not doing shit should wait until the parents come to pick up. I also began to regret my behavior, probably before the behavior. Will be treated as a neuropathy. Then I felt that the fire in the sky had to be burned to the ground. The class teacher said, "Let's go, classmates, it's too late to go home and be careful." Thankfully, I also learned the good news of the specific notices such as the resumption time.
 
-可是我万万没想到接下来的一周要以方便面度日而且发生了更恐怖的事情。
+I liked to observe everything around me at that time. I always felt that the weather was quite wrong. In my words, it was red in the sky, but it was very gloomy. There was also a demon wind. On the way home, I felt that everyone was very excited. I also No exception, I want to go home and watch TV all the way to know what happened. My family is actually the shop my parents opened. I lived in the store with my parents. When I got home, I saw that they dragged some things out and put them on the street. It seems that they are preventing something and then attracting me. It is an instant noodles and a box of mineral water. I have never seen these two things in the "pieces" at home. I am very happy.
+
+However, I never expected to spend the next week in instant noodles and more horrible things happened.
