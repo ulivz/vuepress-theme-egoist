@@ -724,9 +724,8 @@
   dependencies:
     lodash.throttle "^4.1.1"
 
-"@vuepress/plugin-blog@^1.0.0-alpha.30":
+"@vuepress/plugin-blog@file:../vuepress/packages/@vuepress/plugin-blog":
   version "1.0.0-alpha.30"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-blog/download/@vuepress/plugin-blog-1.0.0-alpha.30.tgz#f9973ead85d3b2e8b29ec4d64c8ad1faf13538b8"
 
 "@vuepress/plugin-last-updated@^1.0.0-alpha.30":
   version "1.0.0-alpha.30"
@@ -734,15 +733,13 @@
   dependencies:
     cross-spawn "^6.0.5"
 
-"@vuepress/plugin-medium-zoom@^1.0.0-alpha.30":
+"@vuepress/plugin-medium-zoom@file:../vuepress/packages/@vuepress/plugin-medium-zoom":
   version "1.0.0-alpha.30"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-medium-zoom/download/@vuepress/plugin-medium-zoom-1.0.0-alpha.30.tgz#b72c6d488d3429be1d4c88b3cbbe5335e62acac0"
   dependencies:
     medium-zoom "^0.4.0"
 
-"@vuepress/plugin-pagination@^1.0.0-alpha.30":
+"@vuepress/plugin-pagination@file:../vuepress/packages/@vuepress/plugin-pagination":
   version "1.0.0-alpha.30"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-pagination/download/@vuepress/plugin-pagination-1.0.0-alpha.30.tgz#97d9584cd491b41d133cd009e4323ca380e7ed5a"
 
 "@vuepress/plugin-register-components@^1.0.0-alpha.30":
   version "1.0.0-alpha.30"
@@ -750,9 +747,8 @@
   dependencies:
     "@vuepress/shared-utils" "^1.0.0-alpha.30"
 
-"@vuepress/plugin-search@^1.0.0-alpha.30":
+"@vuepress/plugin-search@^1.0.0-alpha.30", "@vuepress/plugin-search@file:../vuepress/packages/@vuepress/plugin-search":
   version "1.0.0-alpha.30"
-  resolved "http://registry.npm.taobao.org/@vuepress/plugin-search/download/@vuepress/plugin-search-1.0.0-alpha.30.tgz#3ece9654b139de75efdc5f5dcd84bcb39073baaa"
 
 "@vuepress/shared-utils@^1.0.0-alpha.30":
   version "1.0.0-alpha.30"
@@ -7546,9 +7542,8 @@ vuepress-html-webpack-plugin@^3.2.0:
     toposort "^1.0.0"
     util.promisify "1.0.0"
 
-vuepress@^1.0.0-alpha.30:
+"vuepress@file:../vuepress/packages/vuepress":
   version "1.0.0-alpha.30"
-  resolved "http://registry.npm.taobao.org/vuepress/download/vuepress-1.0.0-alpha.30.tgz#6f615fb568fef04ea0bb4231e33b2cb87f4c0eee"
   dependencies:
     "@vuepress/core" "^1.0.0-alpha.30"
     "@vuepress/theme-default" "^1.0.0-alpha.30"

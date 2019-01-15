@@ -1,4 +1,5 @@
 ---
+layout: Page
 title: 那些吸引我的女孩子们
 subtitle: 来自 EGOIST 的告白
 waifus:

@@ -2,7 +2,6 @@
   <LayoutWrapper>
     <div class="main">
       <Content/>
-      <EgoistTags :tags="$tag.list.slice(0, 10)"/>
       <List :items="pages"/>
       <Pagination :pagination="pagination"/>
     </div>
@@ -12,11 +11,11 @@
 <script>
   export default {
     created() {
-      this.pagination.setIndexPage('/')
+      this.pagination.setIndexPage('/archive/')
     },
     computed: {
       pagination () {
-        return this.$pagination('post')
+        return this.$pagination('archive')
       },
       pages () {
         return this.pagination.pages
