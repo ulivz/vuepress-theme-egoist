@@ -1,5 +1,7 @@
 # vuepress-theme-egoist
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/vuepress-theme-egoist.svg)](https://greenkeeper.io/)
+
 > A blog theme for [@EGOIST](https://github.com/egoist) and a mirror of [egoist/blog](https://github.com/egoist/blog), but powered by VuePress.
 
 > This is the world's first blog theme built with VuePress 1.x.
