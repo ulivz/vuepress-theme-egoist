@@ -31,15 +31,15 @@
     "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.30"
   },
   "devDependencies": {
-    "release-it": "v7.4.8",
+    "release-it": "12.3.4",
     "conventional-changelog-cli": "^2.0.1",
     "vuepress": "^1.0.0-alpha.30",
     "limax": "^1.6.0",
     "markdown-it-footnote": "^3.0.1",
-    "medium-zoom": "^0.4.0",
+    "medium-zoom": "^1.0.4",
     "scifi": "^0.1.4",
     "v-tippy": "^2.0.0",
-    "vue-feather-icons": "^4.7.0"
+    "vue-feather-icons": "^5.0.0"
   },
   "peerDependencies": {
     "vuepress": "^1.0.0-alpha.30"
