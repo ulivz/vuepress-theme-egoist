@@ -18,7 +18,7 @@ This theme deeply integrated with:
 - [@vuepress/plugin-pagination](https://vuepress.vuejs.org/plugin/official/plugin-pagination.html)
 - [@vuepress/plugin-search](https://vuepress.vuejs.org/plugin/official/plugin-search.html)
 
-Check out the showcase [https://egoist.ulivz.com/](https://flowchart.vuepress.ulivz.com/) and [usage example](example).
+Check out the showcase [https://egoist.ulivz.com/](https://egoist.ulivz.com/) and [usage example](example).
 
 ## Contributing
 
