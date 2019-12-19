@@ -1,4 +1,5 @@
 ---
+layout: Page
 title: 捐赠支持
 ---
 

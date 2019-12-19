@@ -1,7 +1,7 @@
 <template>
   <LayoutWrapper>
     <div class="main">
-      <EgoistTags :tags="$tags.list"/>
+      <EgoistTags :tags="$tag.list"/>
     </div>
   </LayoutWrapper>
 </template>
